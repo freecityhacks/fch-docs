@@ -23,4 +23,4 @@ Additionally, our unique approach to closing the digital divide in the developin
  
  ## License
  
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/freectiyhacks/fch-docs/license) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/freecityhacks/fch-docs/blob/master/LICENSE) file for details.
