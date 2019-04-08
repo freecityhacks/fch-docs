@@ -1,5 +1,5 @@
 # Free City Hacks
-Free City Hacks is a volunteer-led network of tech enthusiasts, students and developers within and around Aba who come together to learn,collaborate, solve problems and have fun in a very inclusive environment supported by the [Raspberry Jam](https://raspberrypi.org/jam) family.
+Free City Hacks is a volunteer-led network of tech enthusiasts, students and developers within and around Aba who come together to learn, collaborate, solve problems and have fun in a very inclusive environment supported by the [Raspberry Jam](https://raspberrypi.org/jam) family.
 
 ## Our Mission
 Leveraging on the power of active learning, we work to organize and facilitate in-house monthly jams based on community needs and host occasional hackathons geared towards improving the experience in our tech ecosystem.
