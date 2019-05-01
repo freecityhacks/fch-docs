@@ -1,7 +1,7 @@
 # **Community Code of Conduct**
 Being a member of Free City Hacks gives you the opportunity to participate in a lot of innovative projects alongside other creative minds. As such, we have modelled this Community Code of Conduct to reflect the qualities we advocate for. We hereby do encourage everyone interested in playing a role with us, either as a full-time member or as a volunteer, to embody these best practices:
 
-* Be respectful: We're all part of the same community, be friendly, welcoming, and generally nice. Every member of the Free City Hacks family is expected to be of most polite manner when interacting with others. Treat others how you want to be treated, be someone that other people want to be around. It’s all about “team effort”
+* Be respectful: We're all part of the same community, be friendly, welcoming, and generally nice. Every member of the Free City Hacks family is expected to be of most polite manner when interacting with others. Treat others how you want to be treated, be someone that other people want to be around. It’s all about “team effort”.
 
 * Be considerate: All opinions matter, in some cases you would find yourself compromising and that is the team spirit. You are not a team because you work together, you are team because you trust, respect and care for each other.
  
@@ -34,7 +34,7 @@ Any participant asked to stop any harassing behavior is expected to comply immed
 * Permanently dropped as a Project Maintainer, if one.
 * Asked to leave the Free City Hacks community permanently. 
 
-N/B: Always feel free to communicate any report or misunderstanding by reaching out to us via freecityhacks@outlook.com
+**N/B:** Always feel free to communicate any report or misunderstanding by reaching out to us via freecityhacks@outlook.com
 
 ## Basic etiquette for online discussions
 * Do not send messages meant for only one person to a big list.
@@ -47,10 +47,12 @@ N/B: Always feel free to communicate any report or misunderstanding by reaching 
 * Do not use the Free City Hacks name/logo outside the restrictions of our focus, guidelines and operations.
 * It’s deemed inappropriate to use Free City Hacks for profits beyond our aims and objectives. If needed, tickets should only be priced for workshops and events to help cover the cost of operations (e.g. food and drinks, venue, setup, speakers).
 
-These guidelines are modeled after the [Ubuntu Code of Conduct](http://www.ubuntu.com/project/about-ubuntu/conduct), It is licensed under the Creative Commons Attribution-Share Alike 3.0 license. You may re-use it for your own project, and modify as you wish as long as you give credit to the ubuntu project!
-
 ## Organizer Acknowledgements
 Our Community Guidelines and Anti-Harassment Policy should be followed by all our members when organizing or facilitating events (wether in-house or in partnership with other tech communities). This Anti-Harassment Policy should serve as a base document for every interested contributor to work towards the long term sustainability of the network. However, it remains open for modification and constant improvement.
 
+These guidelines are modeled after the [Ubuntu Code of Conduct](http://www.ubuntu.com/project/about-ubuntu/conduct), It is licensed under the Creative Commons Attribution-Share Alike 3.0 license. You may re-use it for your own project, and modify as you wish as long as you give credit to the ubuntu project!
+
 ### Members and Contributors Acknowledgement:
-* [King David](https://github.com/davidconoh)
+* [David](https://github.com/davidconoh)
+
+Feel free to make a pull request
