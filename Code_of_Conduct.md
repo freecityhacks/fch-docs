@@ -48,11 +48,11 @@ Any participant asked to stop any harassing behavior is expected to comply immed
 * It’s deemed inappropriate to use Free City Hacks for profits beyond our aims and objectives. If needed, tickets should only be priced for workshops and events to help cover the cost of operations (e.g. food and drinks, venue, setup, speakers).
 
 ## Organizer Acknowledgements
-Our Community Guidelines and Anti-Harassment Policy should be followed by all our members when organizing or facilitating events (wether in-house or in partnership with other tech communities). This Anti-Harassment Policy should serve as a base document for every interested contributor to work towards the long term sustainability of the network. However, it remains open for modification and constant improvement.
+Our Community Guidelines and Anti-Harassment Policy should be followed by all our members when organizing or facilitating events (wether in-house or in partnership with other tech communities). This Anti-Harassment Policy should serve as a base document for every interested contributor to work towards the long term sustainability of the community. However, it remains open for modification and constant improvement.
 
 These guidelines are modeled after the [Ubuntu Code of Conduct](http://www.ubuntu.com/project/about-ubuntu/conduct), It is licensed under the Creative Commons Attribution-Share Alike 3.0 license. You may re-use it for your own project, and modify as you wish as long as you give credit to the ubuntu project!
 
 ### Members and Contributors Acknowledgement:
 * [David](https://github.com/davidconoh)
 
-Feel free to make a pull request
+Feel free to make a pull request, friend.
