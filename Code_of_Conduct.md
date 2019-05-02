@@ -26,13 +26,7 @@ Harassment due to race, religion or gender, sexual orientation, disabilities, ne
 
 If you see or hear something, you are empowered to politely engage when you or anyone is disrespected. The person making you feel uncomfortable may not be aware of their actions and politely bringing their behavior to their attention is encouraged. If a participant engages in any harassing or uncomfortable behavior, the event or meetup organizers may take any action they deem appropriate, including warning or expelling the offender from the event or meetup with no refund. If you are being harassed or feel uncomfortable, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately.
 
-Any participant asked to stop any harassing behavior is expected to comply immediately or may face one/all of the following:
-
-* If at a meetup, to leave the meetup and its premises.
-* Temporarily banned from the Free City Hacks Discord server and/or Free City Hacks organization on GitHub.
-* Permanently removed from the Free City Hacks Discord server and/or Free City Hacks organization on GitHub.
-* Permanently dropped as a Project Maintainer, if one.
-* Asked to leave the Free City Hacks community permanently. 
+Any participant asked to stop any harassing behavior is expected to comply immediately or may face penalty which includes, but is not limited to, leaving the Free City Hacks community permanently. 
 
 **N/B:** Always feel free to communicate any report or misunderstanding by reaching out to us via freecityhacks@outlook.com
 
