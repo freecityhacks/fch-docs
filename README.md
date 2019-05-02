@@ -16,7 +16,7 @@ Our *Raspberry Jams* focus majorly on celebrating physical computing with the Ra
 Additionally, we are opportuned to partner with other international tech communities including [Major League Hacking](https://mlh.io) to plan, organize, facilitate and/or participate in local and international workshops and student hackathons, giving us the opportunity to express our creativity in a much more open, inclusive and collaboration-friendly environment.
 
 ## Cheese Burger
-Ultimately, everything we do within the our community is structured to help our members achieve the following experiences:
+Ultimately, everything we do within the community is structured to help our members achieve the following experiences:
 * exploring new and exciting opportunities,
 * building maintainable, world-class products and services,
 * communitying with people from other fields of technology, and
