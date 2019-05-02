@@ -1,7 +1,7 @@
 # Free City Hacks
 Free City Hacks is a fast growing community of students and developers who come together to learn, collaborate, solve local problems using technology, and have fun in a very inclusive environment leveraging the power of open source.
 
-![icon-fch][files/img/icon-fch.png "Free City Hacks"]
+![Free City Hacks](files/img/icon-fch.png "icon-fch")
 
 ### Our Goal
 Our focus is on helping to close the digital divide by providing our members as well as other interested participants with regular updates on relevant technology trends through meetups and events where we inspire makers to build competitive and maintainable products using world-class technologies and globally accepted best practices.
