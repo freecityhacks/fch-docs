@@ -47,7 +47,10 @@ Our Community Guidelines and Anti-Harassment Policy should be followed by all ou
 These guidelines are modeled after the [Ubuntu Code of Conduct](http://www.ubuntu.com/project/about-ubuntu/conduct), It is licensed under the Creative Commons Attribution-Share Alike 3.0 license. You may re-use it for your own project, and modify as you wish as long as you give credit to the ubuntu project!
 
 ### Members and Contributors Acknowledgement:
+<<<<<<< HEAD
 The following members have been of incredible help in improving this document:
+=======
+>>>>>>> 7114dde075b058fbe768912626081bc838228b2c
 * [David](https://github.com/davidconoh)
 
 Feel free to make a pull request, friend.
