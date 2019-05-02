@@ -1,5 +1,5 @@
 # Free City Hacks
-Free City Hacks is a fast growing community of students and developers who come together to learn, collaborate, solve local problems, using technology, and have fun in a very inclusive environment leveraging the power of open source.
+Free City Hacks is a fast growing community of students and developers who come together to learn, collaborate, solve local problems using technology, and have fun in a very inclusive environment leveraging the power of open source.
 
 ### Our Goal
 Our focus is on helping to close the digital divide by providing our members as well as other interested participants with regular updates on relevant technology trends through meetups and events where we inspire makers to build competitive and maintainable products using world-class technologies and globally accepted best practices.
@@ -34,7 +34,7 @@ Ultimately, everything we do within the our community is structured to help our 
  * [Uchenna Anya](https://github.com/uchennaanya)
 
  Are you interested in helping in any of our programs? Please read our [Code_of_Conduct](https://github.com/freecityhacks/fch-docs/Code_of_Conduct.md)
- 
+
  ## Contact Us
  * [Facebook](https://facebook.com/freecityhacks)
  * [Twitter](https://twitter.com/freecityhacks)
