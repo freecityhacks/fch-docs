@@ -19,7 +19,7 @@ Being a member of Free City Hacks gives you the opportunity to participate in a 
 
 * Safety: At every Free City Hacks related event, weapons of any sort are prohibited and we discourage smoking on premises.
 
-## network Guidelines and Anti-Harrasment policy:
+## Anti-Harrasment policy:
 Harassment includes, but is not limited to: verbal language that reinforces social structures of domination related to gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category; sexual imagery in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; offensive verbal language; inappropriate physical contact; and unwelcome sexual attention.
 
 Harassment due to race, religion or gender, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category is never welcomed at Free City Hacks;
@@ -35,7 +35,7 @@ Any participant asked to stop any harassing behavior is expected to comply immed
 * Keep off topic conversations to a minimum.
 * Don’t spam by advertising or promoting personal projects which are off topic.
 
-# Basic guidelines for for events and 
+## Basic guidelines for for events
 * It’s okay to partner with other tech groups and communities to arrange for venues, resources and sponsorships.
 * It’s appropriate to talk about relatable technologies and experiences in your network as we want to promote learning across different platforms 
 * Do not use the Free City Hacks name/logo outside the restrictions of our focus, guidelines and operations.
@@ -50,4 +50,4 @@ These guidelines are modeled after the [Ubuntu Code of Conduct](http://www.ubunt
 The following members have been of incredible help in improving this document:
 * [David](https://github.com/davidconoh)
 
-Feel free to make a pull request, friend.
+Want to help us improve our documentation? Feel free to make a pull request, friend.

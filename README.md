@@ -20,7 +20,7 @@ To achieve this, we are very delighted to be working with the [Raspberry Pi Foun
 
 Our *Raspberry Jams* focus majorly on celebrating physical computing with the Raspberry Pi computer and other maker tools while our *CoderDojo* is modelled as a coding club to support the learning of young people from age 7 to 17. Through both programs, we aim to introduce young people to the art of programming and inspire them to build stunning projects using modern, engaging, open source tools like [Scratch](https://scratch.mit.edu/), [Python](https://python.org), [Linux](https://linuxfoundation.org) and other interesting projects.
 
-Additionally, we are opportuned to partner with other international tech communities including [Major League Hacking](https://mlh.io) to plan, organize, facilitate and/or participate in local and international workshops and student hackathons, giving us the opportunity to express our creativity in a much more open, inclusive and collaboration-friendly environment.
+Additionally, we are opportuned to partner with other international tech communities including [Major League Hacking](https://mlh.io) to plan, organize, facilitate and/or participate in both local and international workshops and student hackathons, giving us the opportunity to express our creativity in a much more open, inclusive and collaboration-friendly environment.
 
 ## Cheese Burger
 One striking beauty of our network is that we are working with a lean model that allows our team to be nimble enough to naturally embrace the new DevOps culture for faster collaboration and better tech experience.
