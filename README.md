@@ -1,13 +1,20 @@
 # Free City Hacks
-Free City Hacks is a fast growing community of students and developers who come together to learn, collaborate, solve local problems using technology, and have fun in a very inclusive environment leveraging the power of open source.
-
 ![Free City Hacks](files/img/icon-fch.jpg "icon-fch")
 
+Building up from the team that organized and facilitated [HacktoberfestinAba](https://HacktoberfestinAba.github.io), **Free City Hacks** is a fast growing network of students and developers who come together to learn, collaborate, solve local problems using technology, and have fun in a very inclusive environment leveraging on the power of open source.
+
 ### Our Goal
+Everything we do within the network is structured to help our members achieve the following experiences:
+* explore new and exciting opportunities,
+* build maintainable, world-class products and services,
+* network with people from other fields of technology, and
+* grow beyond our local environment.
+
+## Focus
 Our focus is on helping to close the digital divide by providing our members as well as other interested participants with regular updates on relevant technology trends through meetups and events where we inspire makers to build competitive and maintainable products using world-class technologies and globally accepted best practices.
 
 ### Our Activities
-As a community, our primary aim of coming together is to study through active continuous learning by working independently or collaboratively through practical-based lab sessions using world-class learning resources crafted by and for the general maker community.
+As a network, our primary aim of coming together is to study through active continuous learning by working independently or collaboratively through practical-based lab sessions using world-class learning resources crafted by and for the general maker network.
 
 To achieve this, we are very delighted to be working with the [Raspberry Pi Foundation](https://raspberrypi.org) to run two coder programs, [Raspberry Jam](https://raspberrypi.org/jam) and [CoderDojo](https://coderdojo.com), to support our learning and development in becoming future-ready makers.
 
@@ -16,13 +23,7 @@ Our *Raspberry Jams* focus majorly on celebrating physical computing with the Ra
 Additionally, we are opportuned to partner with other international tech communities including [Major League Hacking](https://mlh.io) to plan, organize, facilitate and/or participate in local and international workshops and student hackathons, giving us the opportunity to express our creativity in a much more open, inclusive and collaboration-friendly environment.
 
 ## Cheese Burger
-Ultimately, everything we do within the community is structured to help our members achieve the following experiences:
-* exploring new and exciting opportunities,
-* building maintainable, world-class products and services,
-* communitying with people from other fields of technology, and
-* growing beyond our local environment.
-
-However, one striking beauty of our community is that our roles are decentralized in such a way that allows every member of our team to naturally embrace our DevOps culture for faster collaboration and better tech experience.
+One striking beauty of our network is that we are working with a lean model that allows our team to be nimble enough to naturally embrace the new DevOps culture for faster collaboration and better tech experience.
 
  ## Author
  * [David](https://github.com/davidconoh)
