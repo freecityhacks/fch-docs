@@ -6,7 +6,7 @@ Building up from the team that organized and facilitated [HacktoberfestinAba](ht
 
 ## Our Vision
 
-Our vision is to supercharge the African developer's learning experience.
+Our vision is to supercharge the fun in Africa's developer ecosystem.
 
 ## Our Mission
 
@@ -18,11 +18,11 @@ On a simple note, we plan, organize, and facilitate tech meetups, workshops and 
 
 To this effect, we are very delighted to be working with the [Raspberry Pi Foundation](https://raspberrypi.org) to run two coder programs, [Raspberry Jam](https://raspberrypi.org/jam) and [CoderDojo](https://coderdojo.com), to support learning and development.
 
-Through both programs, we aim to inspire and encourage young people to get involved in the field of computing by tinkering with programming languages like Scratch and Python or building interactive devices using microcontrollers like the Arduino board.
+Through both programs, we aim to inspire and encourage young people to get involved in the field of computing where thy are free to tinker with programming tools like Scratch and Python, and build interactive devices using microcontrollers like the Arduino board.
 
  ## Lead Advocate
 
- * [David](https://github.com/davidconoh)
+ * [David C.](https://github.com/davidconoh)
  
  ## Advocates
 
