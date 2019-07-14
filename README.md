@@ -46,7 +46,7 @@ Work:
  
 # Contributing & Volunteering
 
-If you are interested in helping in any of our projects, leave us a [tweet](https://twitter.com/freecityhacks). We also encourage you to catch up on our [CONTRIBUTORS_GUIDE](https://github.com/freecityhacks/fch-docs/blob/master/CONTRIBUTORS_GUIDE.md) guide to learn more about our accepted standards and behavioural practices.
+If you are interested in helping in any of our projects, kindly leave us a [tweet](https://twitter.com/freecityhacks) and we will be glad to respond like... Woah!. No, seriously. Plus, we encourage you to catch up on our [CONTRIBUTORS_GUIDE](https://github.com/freecityhacks/fch-docs/blob/master/CONTRIBUTORS_GUIDE.md) guide to learn more about our accepted standards and behavioural practices.
 
 Thank you for checking us out.
 
