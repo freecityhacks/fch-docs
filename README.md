@@ -14,9 +14,9 @@ To achieve this, we've made it our core mission to make it easier for local deve
 
 ## Our Activities
 
-On a simple note, we plan, organize, and facilitate tech meetups, workshops and festivals that promote community-driven education, peer-to-peer collaboration and seamless networking among enthusiasts and professionals in the tech industry. All our events are, therefore, well planned and structured to be of high quality, rich in content and experienced within the most fun, secure, and inclusive environment.
+On a simple note, we plan, organize, and facilitate tech meetups, workshops and festivals that promote community-driven education, peer-to-peer collaboration, as well as a convenient platform for seamless networking among enthusiasts and professionals alike within the tech industry. All our events are, therefore, well planned and structured to be of high quality, rich in content and experienced within a fun, secure, and inclusive environment.
 
-To this effect, we are very delighted to be working with the [Raspberry Pi Foundation](https://raspberrypi.org) to run two coder programs, [Raspberry Jam](https://raspberrypi.org/jam) and [CoderDojo](https://coderdojo.com), to support learning and development.
+Forwording on the said vision, we are very delighted to be working with the [Raspberry Pi Foundation](https://raspberrypi.org) to run two coder programs, [Raspberry Jam](https://raspberrypi.org/jam) and [CoderDojo](https://coderdojo.com), to support learning and development.
 
 Through both programs, we aim to inspire and encourage young people to get involved in the field of computing where they are free to tinker with programming tools like Scratch and Python, and build interactive devices using microcontrollers like the Arduino board.
 
