@@ -37,11 +37,12 @@ Social:
 
 * [Facebook](https://facebook.com/freecityhacks)
 * [Twitter](https://twitter.com/freecityhacks)
+* [Eventbrite](https://freecityhacks.eventbrite.com)
 
 Work:
 
 * [GitHub](https://github.com/freecityhacks)
-* [Eventbrite](https://freecityhacks.eventbrite.com)
+* [Dojo](https://zen.coderdojo.com/dojos/ng/aba/aba-freecityhacks)
  
 # Contributing & Volunteering
 
