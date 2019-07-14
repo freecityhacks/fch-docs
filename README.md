@@ -1,51 +1,51 @@
 # Free City Hacks
+
 ![Free City Hacks](files/img/icon-fch.jpg "icon-fch")
 
-Building up from the team that organized and facilitated [HacktoberfestinAba](https://HacktoberfestinAba.github.io), **Free City Hacks** is a fast growing network of students and developers who come together to learn, collaborate, solve local problems using technology, and have fun in a very inclusive environment leveraging on the power of open source.
+Building up from the team that organized and facilitated [HacktoberfestinAba](https://HacktoberfestinAba.github.io), **Free City Hacks** is structured as a developer-focused platform that works to provide access to 'up-to-date' digital learning resources and support for the exploration and use of top-notch programming environments and magical maker kits, leveraging the power of open source.
 
-### Our Goal
-Everything we do within the network is structured to help our members achieve the following experiences:
-* explore new and exciting opportunities,
-* build maintainable, world-class products and services,
-* network with people from other fields of technology, and
-* grow beyond our local environment.
+## Our Vision
 
-## Focus
-Our focus is on helping to close the digital divide by providing our members as well as other interested participants with regular updates on relevant technology trends through meetups and events where we inspire makers to build competitive and maintainable products using world-class technologies and globally accepted best practices.
+Our vision is to supercharge the African developer's learning experience.
+
+## Our Mission
+
+To achieve this, we've made it our core mission to make it easier for local developers to connect with rapidly evolving tech trends and provide the relevant assistance for young people to engage in physical computing and digital making through practical-based, learning sessions and hands-on labs.
 
 ### Our Activities
-As a network, our primary aim of coming together is to study through active continuous learning by working independently or collaboratively through practical-based lab sessions using world-class learning resources crafted by and for the general maker network.
 
-To achieve this, we are very delighted to be working with the [Raspberry Pi Foundation](https://raspberrypi.org) to run two coder programs, [Raspberry Jam](https://raspberrypi.org/jam) and [CoderDojo](https://coderdojo.com), to support our learning and development in becoming future-ready makers.
+On a simple note, we plan, organize, and facilitate tech meetups, workshops and festivals that promote community-driven education, peer-to-peer collaboration and seamless networking among enthusiasts and professionals in the tech industry. All our events are therefore well planned and structured to be of high quality, rich in content and experienced within the most fun, secure, and inclusive environment.
 
-Our *Raspberry Jams* focus majorly on celebrating physical computing with the Raspberry Pi computer and other maker tools while our *CoderDojo* is modelled as a coding club to support the learning of young people from age 7 to 17. Through both programs, we aim to introduce young people to the art of programming and inspire them to build stunning projects using modern, engaging, open source tools like [Scratch](https://scratch.mit.edu/), [Python](https://python.org), [Linux](https://linuxfoundation.org) and other interesting projects.
+To this effect, we are very delighted to be working with the [Raspberry Pi Foundation](https://raspberrypi.org) to run two coder programs, [Raspberry Jam](https://raspberrypi.org/jam) and [CoderDojo](https://coderdojo.com), to support learning and development.
 
-Additionally, we are opportuned to partner with other international tech communities including [Major League Hacking](https://mlh.io) to plan, organize, facilitate and/or participate in both local and international workshops and student hackathons, giving us the opportunity to express our creativity in a much more open, inclusive and collaboration-friendly environment.
+Through both programs, we aim to inspire and encourage young people to get involved in the field of computing by tinkering with programming languages like Scratch and Python or building interactive devices using microcontrollers like the Arduino board.
 
-## Cheese Burger
-One striking beauty of our network is that we are working with a lean model that allows our team to be nimble enough to naturally embrace the new DevOps culture for faster collaboration and better tech experience.
+ ## Lead Advocate
 
- ## Author
  * [David](https://github.com/davidconoh)
  
- ## Maintainers
+ ## Advocates
+
  * [Andrew Miracle](https://github.com/koolamusic)
  * [Fay Vor](https://github.com/phavor)
  * [Opara Prosper](https://github.com/OPARA-PROSPER)
- * [Afro Geek](https://github.com/japhmayor)
 
- ## Dojo Mentors
- * [Jonah Uche](https://github.com/jonahuche)
- * [Uchenna Anya](https://github.com/uchennaanya)
 
- ## Contact
+ ## Visit Us
+
+Check us out on these platforms:
+
  * [Facebook](https://facebook.com/freecityhacks)
  * [Twitter](https://twitter.com/freecityhacks)
  * [GitHub](https://github.com/freecityhacks)
  * [Eventbrite](https://freecityhacks.eventbrite.com)
  
- # Contributing
- Are you interested in helping in any of our programs? Please read our [Code_of_Conduct](https://github.com/freecityhacks/fch-docs/blob/master/Code_of_Conduct.md) and the Raspberry Pi Foundation's [Safeguarding policy](https://www.raspberrypi.org/app/uploads/2019/01/Raspberry-Pi-Foundation-safeguarding-policy.pdf).
+ # Contributing & Volunteering
+
+If you are interested in helping us achieve more, kindly reach out to [freecityhacks@outlook.com](mailto://freecityhacks@outlook.com). Also, feel free to read up on our [CODE_OF_CONDUCT](https://github.com/freecityhacks/fch-docs/blob/master/CODE_OF_CONDUCT.md) to learn more about our accepted standards and behaviours.
+
+Thank you.
 
  # License
+
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/freecityhacks/fch-docs/blob/master/LICENSE) file for details.
