@@ -33,18 +33,21 @@ Through both programs, we aim to inspire and encourage young people to get invol
 
 ## Visit Us
 
-Check us out on these platforms:
+Social:
 
 * [Facebook](https://facebook.com/freecityhacks)
 * [Twitter](https://twitter.com/freecityhacks)
+
+Work:
+
 * [GitHub](https://github.com/freecityhacks)
 * [Eventbrite](https://freecityhacks.eventbrite.com)
  
 # Contributing & Volunteering
 
-If you are interested in helping us achieve more, kindly reach out to [freecityhacks@outlook.com](mailto://freecityhacks@outlook.com). Also, feel free to read up on our [CODE_OF_CONDUCT](https://github.com/freecityhacks/fch-docs/blob/master/CODE_OF_CONDUCT.md) and [CONTRIBUTING_GUIDELINES](https://github.com/freecityhacks/fch-docs/blob/master/CONTRIBUTING.md) to learn more about our accepted standards and behaviours.
+If you are interested in helping in any of our projects, leave us a [tweet](https://twitter.com/freecityhacks). We also encourage you to catch up on our [CONTRIBUTORS_GUIDE](https://github.com/freecityhacks/fch-docs/blob/master/CONTRIBUTORS_GUIDE.md) guide to learn more about our accepted standards and behavioural practices.
 
-Thank you.
+Thank you for checking us out.
 
 # License
 
