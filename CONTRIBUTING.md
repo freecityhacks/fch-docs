@@ -14,4 +14,4 @@ Please note we have a Code Of Conduct, so do ensure that you follow it in all yo
 
 # Contributors
 
- * [David](https://github.com/davidconoh)
+ * [David C.](https://github.com/davidconoh)

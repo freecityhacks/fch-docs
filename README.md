@@ -42,7 +42,7 @@ Check us out on these platforms:
  
  # Contributing & Volunteering
 
-If you are interested in helping us achieve more, kindly reach out to [freecityhacks@outlook.com](mailto://freecityhacks@outlook.com). Also, feel free to read up on our [CODE_OF_CONDUCT](https://github.com/freecityhacks/fch-docs/blob/master/CODE_OF_CONDUCT.md) to learn more about our accepted standards and behaviours.
+If you are interested in helping us achieve more, kindly reach out to [freecityhacks@outlook.com](mailto://freecityhacks@outlook.com). Also, feel free to read up on our [CODE_OF_CONDUCT](https://github.com/freecityhacks/fch-docs/blob/master/CODE_OF_CONDUCT.md) and [CONTRIBUTING](https://github.com/freecityhacks/fch-docs/blob/master/CONTRIBUTING.md) to learn more about our accepted standards and behaviours.
 
 Thank you.
 
