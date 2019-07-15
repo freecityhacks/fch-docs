@@ -10,7 +10,7 @@ Developers hate stress. We want to keep it that way. [*#AfricanTechFun*](https:/
 
 ## Our Mission
 
-To achieve this, we've made it our core mission to find sustainable ways for improving local developers' access to rapidly evolving tech trends and provide the required assistance for young people to get acquainted with physical computing and digital making and, through their regular participation in our inspiring, practical-based, learning sessions and hands-on labs, supercharge our signature the *hashtag* alongside products and services we develop independently or in collaboration with our partners.
+To achieve this, we've made it our core mission to find sustainable ways for improving local developers' access to rapidly evolving tech trends and provide the required assistance for young people to get acquainted with physical computing and digital making and, through their regular participation in our inspiring, practical-based, learning sessions and hands-on labs, supercharge and promote our signature *hashtag* alongside products and services we are developing independently or in collaboration with our partners.
 
 ## The Hashtag
 
