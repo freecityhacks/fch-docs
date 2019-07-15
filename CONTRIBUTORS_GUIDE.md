@@ -60,7 +60,7 @@ This Code of Conduct is adapted from the [Contributor Covenant][homepage], versi
 
 For answers to common questions about this code of conduct, see https://www.contributor-covenant.org/faq
 
-## Maintainers
+## Reviewers
 
 * [Fay Vor](https://github.com/phavor)
 * [Opara Prosper](https://github.com/OPARA-PROSPER)
