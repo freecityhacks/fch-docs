@@ -6,23 +6,23 @@ Building up from the team that organized and facilitated [HacktoberfestinAba](ht
 
 ## Our Vision
 
-Our vision is to inspire fun in the local making culture by promoting the hashtag: *#AfricanTechFun*.
+Our vision is to inspire fun in the local making culture.
 
 ## Our Mission
 
-To achieve this, we've made it our core mission to find sustainable ways for local developers to connect with rapidly evolving tech trends and to provide the relevant assistance for young people to get acquainted with physical computing and digital making through practical-based, learning sessions and hands-on labs.
+To achieve this, we've made it our core mission to find sustainable ways for local developers to connect with rapidly evolving tech trends and to provide the relevant assistance for young people to get acquainted with physical computing and digital making through fun and inspiring, practical-based, learning sessions and hands-on labs, as envisioned in the hashtag *#AfricanTechFun*
 
 ## The Hashtag
 
-The hashtag *#AfricanTechFun* defines our platform's native approach towards improving the traditional artistry in Africa's evolving technological industry with due respect to our positively diversified, cultural heritage.
+The hashtag [*#AfricanTechFun*](https://twitter.com/davidconoh/status/1150705504496345090) defines our platform's native approach towards improving the traditional, inspirational artistry in Africa's rapidly evolving technological industry with due respect to our positively diversified, yet inclusive cultural heritage.
 
 ## Our Activities
 
-On a simple note, we plan, organize, and facilitate tech meetups, workshops and festivals that promote community-driven education, peer-to-peer collaboration, as well as inspire the convenience for seamless networking among enthusiasts and professionals alike within the tech industry. All our events are, therefore, well planned and structured to be of high quality, rich in content and experienced within a fun, secure, and inclusive environment.
+On a simple note, we plan, organize, and facilitate tech meetups, workshops and festivals that promote community-driven education, peer-to-peer collaboration, as well as inspire the convenience for seamless networking among enthusiasts and professionals alike within the tech industry. All our events are, therefore, well planned and structured to be of high quality, rich in content, experienced within a fun, secure, and inclusive environment, and branded with our signature hashtag.
 
-Forwording on the said vision, we are already working with the [Raspberry Pi Foundation](https://raspberrypi.org) to run two coder programs, [Raspberry Jam](https://raspberrypi.org/jam) and [CoderDojo](https://coderdojo.com), to support learning and development.
+Forwarding on the said vision, we are already working with the [Raspberry Pi Foundation](https://raspberrypi.org) to run two coder programs, [Raspberry Jam](https://raspberrypi.org/jam) and [CoderDojo](https://coderdojo.com), to support learning and development.
 
-Through both programs, we aim to inspire and encourage young people to get involved in the field of computing where they are free to tinker with innovative programming tools, and build embedded interacting platforms *the African way*.
+Through both programs, we aim to inspire and encourage young people to get involved in the field of computing in an ecosystem where they are free to tinker with innovative programming tools, and build interactive, stable platforms *the African way*.
 
 ## Author
 
