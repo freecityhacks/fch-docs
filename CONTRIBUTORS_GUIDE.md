@@ -1,17 +1,17 @@
 # Contributing
 
-When contributing to any of the programs supported by this platform, please first discuss the change you wish to make via our official email, or any other method approved by the Maintainer/Advocate of the said project before making a change. 
+When contributing to any of the programmes supported on the *Free City Hacks* platform, please first discuss the change you wish to make via our official communication channel, or any other method approved by the Maintainer/Advocate of the said project before making the change. 
 
-Please note we have a Code Of Conduct, so do ensure that you follow it in all your interactions within this platform.
+Please note we have a *Code Of Conduct* and *Safeguarding Policy*, so do ensure that you follow them in all your interactions within this platform.
 
 ## Pull Request Process For Hosted Projects
 
-In the event that you are contributing to any projects hosted on this platform, please insure that you:
+In the event that you are contributing to any projects codebase hosted on this platform, please insure that:
 
 1. install or build dependencies are removed before the end of the layer when doing a 
    build.
-2. update the *README.md* with details of changes to the interface, this includes new environment    variables, exposed ports, useful file locations and container parameters.
-3. increase the version numbers in any examples files and the *README.md* to the new version that    this *Pull Request* would represent. The versioning scheme we use is [Git](http://git-scm.com/).
+2. you update the *README.md* of said project with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
+3. increase the version numbers in any examples files and related documents to the new version that your *Pull Request* would represent. The versioning scheme we use is [Git](http://git-scm.com/).
 4. merge the *Pull Request* in once you have the sign-off of two other developers, preferably a maintainer, or if you do not have permission to do that, you may request a second reviewer to merge it for you.
 
 # Contributor Covenant Code of Conduct
@@ -23,7 +23,6 @@ In the interest of fostering an open and welcoming environment, we as contributo
 ## Our Standards
 
 Examples of behavior that contributes to creating a positive environment include:
-
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
 * Gracefully accepting constructive criticism
@@ -31,40 +30,37 @@ Examples of behavior that contributes to creating a positive environment include
 * Showing empathy towards others who contribute to any of our programs
 
 Examples of unacceptable behavior by participants include:
-
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
-* Publishing others' private information, such as a physical or electronic address, without         explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+* Publishing others' private information, such as a physical or electronic address, without explicit permission
+* Other conduct(s) which could reasonably be considered inappropriate in a professional setting
 
 ## Our Responsibilities
 
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+Our Maintainers and the entire working team share a collective responsibility to clarify the standards of acceptable behavior and are expected to take appropriate and fair corrective action(s) in response to any instances of unacceptable behavior.
 
-Program maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+Program maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with the Code of Conduct nas Safeguardng Policy, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
 ## Scope
 
-This Code of Conduct applies within all project spaces, and it also applies when an individual is representing any one of our programs or its community in public spaces. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by our program maintainers.
+This Code of Conduct applies within all project spaces, and it also applies when an individual is representing any one of our programs or its community in public spaces. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by our Maintainers/Advocates.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [freecityhacks@outlook.com](mailto://freecityhacks@outlook.com). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the working team at [freecityhacks@outlook.com](mailto://freecityhacks@outlook.com). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
-Program maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of this platform's leadership.
+*Maintainers*, *Advocates* and *Contributors* who do not follow or enforce our *Code of Conduct* and *Safeguarding Policy* in good faith may face temporary or permanent repercussions as determined by other members of this platform's leadership including the working team's decision to unapologetically disengage from the said person(s).
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org
 
-For answers to common questions about this code of conduct, see
-https://www.contributor-covenant.org/faq
+For answers to common questions about this code of conduct, see https://www.contributor-covenant.org/faq
 
-## Reviewers
+## Maintainers
 
 * [Fay Vor](https://github.com/phavor)
 * [Opara Prosper](https://github.com/OPARA-PROSPER)
