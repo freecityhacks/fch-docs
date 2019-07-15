@@ -10,7 +10,7 @@ Developers hate stress. We want to keep it that way. [*#AfricanTechFun*](https:/
 
 ## Our Mission
 
-To achieve this, we've made it our core mission to find sustainable ways for improving local developers' access to rapidly evolving tech trends and provide the required assistance for young people to get acquainted with physical computing and digital making and, through their regular participation in our inspiring, practical-based, learning sessions and hands-on labs, supercharge our signature the *hashtag* alongside products and services developed independently or in collaboration with other partnering communities.
+To achieve this, we've made it our core mission to find sustainable ways for improving local developers' access to rapidly evolving tech trends and provide the required assistance for young people to get acquainted with physical computing and digital making and, through their regular participation in our inspiring, practical-based, learning sessions and hands-on labs, supercharge our signature the *hashtag* alongside products and services we develop independently or in collaboration with our partners.
 
 ## The Hashtag
 
@@ -28,7 +28,7 @@ Through both programs, we aim to inspire and encourage young people to get invol
 
 * [David C.](https://github.com/davidconoh)
  
-## Maintainers
+## Maintainers/Advocates
 
 * [Andrew Miracle](https://github.com/koolamusic)
 * [Fay Vor](https://github.com/phavor)
@@ -54,13 +54,13 @@ Work:
 
 Knowing that open-minded, voluntary contributions to projects like this require high-value awesomeness, we are readily on the lookout for cool people like you who are interested in helping out on this platform. Care, just a step further, to leave us a [tweet](https://twitter.com/freecityhacks) and we will be glad to give you a welcoming response.
 
-Seriously, you bet we would.
+Yeah, right. You bet we would.
 
-On the other hand, if you however are interested in helping to:
-* mentor young learners
+On the other hand, if you however are interested in exploring our platform to:
+* help mentor young learners
 * host a new or existing project
-* share knowledge and exerience with the wider tech community
-We would be very pleased to give you the most amazing support. Simply contact [freecityhacks@outlook.com](mailto://freecityhacks@outlook.com)
+* share knowledge and experience with the wider tech community
+We would be very pleased to provide you with the most amazing support. Simply contact [freecityhacks@outlook.com](mailto://freecityhacks@outlook.com)
 
 We also encourage you to catch up on our [CONTRIBUTORS_GUIDE](https://github.com/freecityhacks/fch-docs/blob/master/CONTRIBUTORS_GUIDE.md) to learn more about our accepted standards and best behavioural practices. If you are one to look out for convenience, you're in luck. See our Safeguarding Policy at [SAFEGUARDING](https://github.com/freecityhacks/fch-docs/blob/master/SAFEGUARDING.md).
 

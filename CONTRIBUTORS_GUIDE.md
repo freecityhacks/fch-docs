@@ -6,11 +6,11 @@ Please note we have a *Code Of Conduct* and *Safeguarding Policy*, so do ensure 
 
 ## Pull Request Process For Hosted Projects
 
-In the event that you are contributing to any projects codebase hosted on this platform, please insure that:
+In the event that you are contributing to any projects codebase hosted on this platform, please insure that you:
 
 1. install or build dependencies are removed before the end of the layer when doing a 
    build.
-2. you update the *README.md* of said project with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
+2. update the *README.md* of said project with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
 3. increase the version numbers in any examples files and related documents to the new version that your *Pull Request* would represent. The versioning scheme we use is [Git](http://git-scm.com/).
 4. merge the *Pull Request* in once you have the sign-off of two other developers, preferably a maintainer, or if you do not have permission to do that, you may request a second reviewer to merge it for you.
 
@@ -18,7 +18,7 @@ In the event that you are contributing to any projects codebase hosted on this p
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as contributors to the [Free City Hacks](https://github.com/freecityhacks) platform pledge to making your participation in any programme or project we host or support a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+In the interest of fostering an open and welcoming environment, we as contributors to *[Free City Hacks](https://github.com/freecityhacks)* pledge to making your participation in any programme or project we host or support a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
