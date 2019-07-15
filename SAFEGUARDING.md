@@ -1,85 +1,88 @@
-# Safeguarding Policy
+# Free City Hacks Safeguarding Policy
 
 ## Purpose
 
-The purpose of this policy is to protect people, particularly children, at risk adults and beneficiaries of assistance, from any harm that may be caused due to their coming into contact with the Free City Hacks platform.  This includes harm arising from: 
-* The conduct of any contributor to the Free City Hacks platform
-* The design and implementation of Free City Hacks’s programmes and activities 
+The purpose of this policy is to protect the interest and the data of people, particularly children, at risk adults and beneficiaries of assistance, from any harm that may be caused due to their coming into contact with the *Free City Hacks* platform.  This includes harm arising from: 
+* The conduct of any contributor to our platform, digital or local
+* The design and implementation of our programmes and activities 
 
-The policy lays out the commitments made by Free City Hacks, and informs contributors and any other associated personnel of their responsibilities in relation to safeguarding. 
+The policy lays out the commitments made by our working team, and informs contributors and any other associated personnel of their responsibilities in relation to safeguarding. 
 
 This policy does not cover: 
-* Sexual harassment outside our platform – this is dealt with under the goverment's Anti Bullying and Harassment Policy
-* Safeguarding concerns in the wider community not perpetrated by Free City Hacks or associated personnel
+* Sexual harassment outside our platform, local or digital – this is dealt with by the appropriate Government Anti Bullying and Harassment Policy.
+* Safeguarding concerns in the wider community not perpetrated by *Free City Hacks* or any one of our associates.
 
-## What is safeguarding?
+## What Is Safeguarding?
 
-Free City Hacks defines safeguarding as the practice of protecting peoples' health, wellbeing and human rights, and enabling them to live free from harm, abuse and neglect. In our sector, we understand it to mean protecting people, including children and at risk adults, from harm that arises from coming into contact with our staff or programmes.
+We define safeguarding as the practice of protecting peoples' health, information, wellbeing and human rights, and enabling them to live free from harm, abuse and neglect. In our sector, we understand it to mean the proper management and coordination of the personal and collective needs and information of the people, teams and organizations who work with us, including children and at risk adults, from harm that arises from coming into contact with our working team or any of our programmes.
+
 Further definitions relating to safeguarding are provided in the glossary below.
 
 ## Scope
 
-* All contributors to Free City Hacks
+* All contributors to our platform, local and digital.
 * Associated personnel whilst engaged with work or visits related to Free City Hacks, including but not limited to the following: consultants; volunteers; contractors; programme participants, and visitors including journalists, celebrities and politicians. 
 
 ## Policy Statement
 
-Free City Hacks believes that everyone we come into contact with, regardless of age, gender identity, disability, sexual orientation or ethnic origin has the right to be protected from all forms of harm, abuse, neglect and exploitation. Free City Hacks will not tolerate abuse and exploitation by staff or associated personnel.
+*Free City Hacks* believes that everyone we come into contact with, regardless of age, gender identity, disability, sexual orientation or ethnic origin has the right to be protected from all forms of harm, abuse, neglect and exploitation. We will not tolerate abuse and exploitation by staff or associated personnel.
 
-This policy will address the following areas of safeguarding [as appropriate]: child safeguarding, adult safeguarding, and protection from sexual exploitation and abuse. These key areas of safeguarding may have different policies and procedures associated with them (see Associated Policies).
+This policy will address the following areas of safeguarding [as appropriate]: child safeguarding, adult safeguarding, data privacy, and protection from sexual exploitation and abuse. These key areas of safeguarding may have different policies and procedures associated with them.
 
-Free City Hacks commits to addressing safeguarding throughout its work, through the three pillars of prevention, reporting and response.
+*Free City Hacks* commits to addressing safeguarding and data protectin throughout its work, through the three pillars of prevention, reporting and response.
 
-## Prevention
+# Prevention
 
 ## Free City Hacks Responsibilities
 
-Free City Hacks will:
-* Ensure all staff have access to, are familiar with, and know their responsibilities within this policy
-* Design and undertake all its programmes and activities in a way that protects people from any risk of harm that may arise from their coming into contact with Free City Hacks.  This includes the way in which information about individuals in our programmes is gathered and communciated
-* Implement stringent safeguarding procedures when recruiting, managing and deploying staff and associated personnel 
-* Ensure staff receive training on safeguarding at a level commensurate with their role in the organization
-* Follow up on reports of safeguarding concerns promptly and according to due process
+The working team at *Free City Hacks* will:
+* ensure all members have access to, are familiar with, and know their responsibilities within this policy
+* design and undertake all its programmes and activities in a way that protects people from any risk of harm that may arise from their coming into contact with us.  This includes the way in which information about individuals in our programmes is gathered and communciated
+* implement stringent safeguarding procedures when recruiting, managing and deploying staff and associated personnel 
+* ensure contributing members receive regular training on safeguarding at a level commensurate with their role on our platform
+* follow up on reports of safeguarding concerns promptly and according to due process
 
 ## Contributor's Responsibilities
 
 ### Child Safeguarding
 
-Contributors to, and participants of any or all of Free City Hacks programmes must not:
-* Engage in sexual activity with anyone under the age of 18 
-* Sexually abuse or exploit children 
-* Subject a child to physical, emotional or psychological abuse, or neglect 
-* Engage in any commercially exploitative activities with children including child labour or trafficking 
+Contributors to any or all of our programmes must not:
+* engage in sexual activity with anyone under the age of 18 
+* sexually abuse or exploit children 
+* subject a child to physical, emotional or psychological abuse, or neglect 
+* engage in any commercially exploitative activities with children including child labour, trafficking, or the misuse of personal information 
 
 ### Adult Safeguarding
 
-Contributors to, and participants of any or all of Free City Hacks programmes must not:
-* Sexually abuse or exploit at risk adults
-* Subject an at risk adult to physical, emotional or psychological abuse, or neglect 
+Contributors to any or all of our programmes must not:
+* sexually abuse or exploit at risk adults
+* subject an at risk adult to physical, emotional or psychological abuse, or neglect 
+* engage in the misuse of personal information relating to at risk adults
 
 ### Protection From Sexual Exploitation And Abuse
 
-Contributors to, and participants of any or all of Free City Hacks programmes must not:
-* Exchange money, employment, goods or services for sexual activity. This includes any exchange of assistance that is due to beneficiaries of assistance
-* Engage in any sexual relationships with beneficiaries of assistance, since they are based on inherently unequal power dynamics
+Contributors to any or all of our programmes must not:
+* exchange money, employment, goods or services for sexual activity. This includes any exchange of assistance that is due to beneficiaries of assistance
+* engage in any sexual relationships with beneficiaries of assistance, since they are based on inherently unequal power dynamics
 
 Additionally, Free City Hacks is obliged to:
 * Contribute to creating and maintaining an environment that prevents safeguarding violations and promotes the implementation of the Safeguarding Policy
 * Report any concerns or suspicions regarding safeguarding violations by any member or associated personnel to the appropriate authorities
 
+## Data Privacy
+
+The team at *Free City Hacks* is unavoidably interested in preventing the intentional or unintentional problems that may arise from our regular use of software and equipment. Therefore, developing a thorough policy for protecting available data is now more important than ever. Our internal working policy provides the team with constantly updated information required to develop, employ and sustain a recommendable roadmap for the proper use of mobile technology as well as information security and wireless access policies to protect the confidential data of our members and the people, organizations and communities we interact with on a daily.
+
 ## Enabling Reports
 
-Free City Hacks will ensure that safe, appropriate, accessible means of reporting safeguarding concerns are made available to our members and the communities we work with.
-
-Any person reporting concerns or complaints should endeavour to do so through our officially recommended email 
-
-Free City Hacks will also accept complaints from external sources such as members of the public, partners and official bodies.
+*Free City Hacks* will ensure that:
+* safe, appropriate, accessible means of reporting safeguarding concerns and data misuse are made available to our members and the communities we work with.
+* any person reporting concerns or complaints will do so through our officially recommended email.
+* our working team will also accept complaints from external sources such as members of the public, partners and official bodies.
 
 ### How To Report A Safeguarding Concern
 
-Members or participants who have a complaint or concern relating to safeguarding should report it immediately to the Programme Maintainer.  If the person does not feel comfortable reporting to the Maintainer (for example if they feel that the report will not be taken seriously, or if that person is implicated in the concern) they may report to any other appropriate personel. For example, this could be a member of the Advocate Team.
-
-Please contact [freecityhacks@outlook.com](mailto://freecityhacks@outlook.com).
+Members or participants who have a complaint or concern relating to safeguarding should report it to any available member of the working team as soon as posssible.  If the person does not feel comfortable reporting to the member of the team currently available (for example if they feel that the report will not be taken seriously, or if that person is implicated in the concern) they can directly contact [freecityhacks@outlook.com](mailto://freecityhacks@outlook.com).
 
 ## Response
 
@@ -95,28 +98,23 @@ We are hoping to build a foundational model for inclusive learning, so we are op
 
 It is essential that confidentiality in maintained at all stages of the process when dealing with safeguarding concerns. Information relating to the concern and subsequent case management should be shared on a need to know basis only, and should be kept secure at all times. 
 
-## Associated policies
-* Code of Conduct
-* Anti Bullying and Harassment policy
-* Disclosure of Malpractice in the Workplace (Whistleblower) policy
-* Child Safeguarding policy
-* Adult Safeguarding policy
-* PSEA (Protection From Sexual Exploitation and Abuse) policy
-* Complaints Policy
-* Procedures for reporting and response to safeguarding concerns
-
 ## Glossary of Terms
 
 ### Beneficiary of Assistance
 
-Someone who directly receives goods or services from Free City Hacks’s programme. Note that misuse of power can also apply to the wider community that theis platform serves, and also can include exploitation by giving the perception of being in a position of power.
+Someone who directly receives goods or services from Free City Hacks’s programme. Note that misuse of power can also apply to the wider community that theis platform serves, and also can include exploitation by giving the perception of being in a position of power. 
 
 ### Child
+
 A person below the age of 18
 
 ### Harm
 
 Psychological, physical and any other infringement of an individual’s rights
+
+### Data
+
+Processed information relating to people and the ecosystems they interact with. 
 
 ### Psychological Harm
 
