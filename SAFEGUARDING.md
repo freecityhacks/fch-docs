@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of this policy is to protect the interest and the data of people, particularly children, at risk adults and beneficiaries of assistance, from any harm that may be caused due to their coming in contact with the *Free City Hacks* platform.  This includes harm arising from: 
+The purpose of this policy is to protect the interest and the data of people, particularly children, at risk adults and beneficiaries of assistance, from any harm that may be caused due to their coming in contact with the *Free City Hacks* platform. This includes harm arising from: 
 * the conduct of any contributor to our platform, both offline and online
 * the design and implementation of our programmes and activities 
 
@@ -86,14 +86,14 @@ Members or participants who have a complaint or concern relating to safeguarding
 
 Free City Hacks will follow up safeguarding reports and concerns according to policy and procedure, and legal and statutory obligations and will apply appropriate disciplinary measures to staff found in breach of policy. We will also offer support to survivors of harm caused by any member of our working team or associated personnel, regardless of whether a formal internal response is carried out (such as an internal investigation). Decisions regarding support will be led by a collaborative decision made by a member of our team and the survivor.
 
-Since our works emphasizes on building a foundational model for inclusive learning, we are open to partnerships with well known organizations like the [Raspberry Pi](https://raspberrypi.org) to help in structurng that safe and convenient, top-notch learning platform.
+Since our works emphasizes on building a foundational model for inclusive learning, we are open to partnerships with well known organizations like the [Raspberry Pi](https://raspberrypi.org) to help in structurng that safe and convenient, top-notch learning platform as envisioned in *#AfricanTechFun*.
 
 ## Confidentiality
 
-It is essential that confidentiality in maintained at all stages of the process when dealing with safeguarding concerns. Information relating to the concern and subsequent case management should be shared on a need to know basis only, and should be kept secure at all times. 
+It is essential that confidentiality is maintained at all stages of the process when dealing with safeguarding concerns. Information relating to the concern and subsequent case management should be shared on a need to know basis only, and should be kept secure at all times. 
 
-Additionally, Free City Hacks is obliged to:
-* contribute to creating and maintaining an environment that prevents safeguarding violations and promotes the implementation of the Safeguarding Policy
+Additionally, our working team is obliged to:
+* contribute to creating and maintaining an environment that prevents safeguarding violations and promotes the implementation of the *Safeguarding Policy*
 * report any concerns or suspicions regarding safeguarding violations by any member or associated personnel to the appropriate authorities
 
 ## Glossary of Terms

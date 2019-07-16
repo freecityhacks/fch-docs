@@ -2,7 +2,7 @@
 
 ![Free City Hacks](files/img/icon-fch.png "icon-fch")
 
-Building up from the team that organized and facilitated [HacktoberfestinAba](https://HacktoberfestinAba.github.io), we've structured *Free City Hacks* to operate as a developer-focused platform that works to provide access to 'up-to-date' digital learning resources and support for the exploration and use of top-notch programming environments and magical maker kits, leveraging the power of open source in celebrating our local maker culture.
+Building up from the team that organized and facilitated [HacktoberfestinAba](https://HacktoberfestinAba.github.io), we've structured *Free City Hacks* to operate as a developer-focused platform that works to provide access to 'up-to-date' digital learning resources and support for the exploration and use of top-notch programming environments and magical maker kits leveraging the power of open source in celebrating our local maker culture.
 
 ## Our Vision
 
@@ -10,7 +10,7 @@ Developers hate stress. We want to keep it that way. [*#AfricanTechFun*](https:/
 
 ## Our Mission
 
-To achieve this, we've made it our core mission to find sustainable ways for improving local developers' access to rapidly evolving tech trends and provide the required assistance for young people to get acquainted with physical computing and digital making and, through their regular participation in our inspiring, practical-based, learning sessions and hands-on labs, supercharge and promote our signature *hashtag* alongside products and services we are developing independently or in collaboration with our partners.
+To achieve this, we've made it our core mission to find sustainable ways for improving developers' access to rapidly evolving tech trends and provide the required assistance for young people to get acquainted with physical computing and digital making and, through their regular participation in our inspiring, practical-based, learning sessions and hands-on labs, supercharge and promote our signature *hashtag* alongside the products and services we are developing independently or in collaboration with our partners.
 
 ## The Hashtag
 
@@ -18,7 +18,7 @@ The hashtag *#AfricanTechFun* defines our native approach towards improving the 
 
 ## Our Activities
 
-On a simple note, we plan, organize, and facilitate tech meetups, workshops and festivals that promote community-driven education, peer-to-peer collaboration, as well as provide a convenient avenue for the seamless networking among enthusiasts and professionals alike within the tech industry. All our events are, therefore, well planned and structured to be of high quality, rich in content, experienced within a fun, secure, and inclusive environment, and uniquely identified by our signature hashtag *#AfricanTechFun*.
+On a simple note, we plan, organize, and facilitate tech meetups, workshops and festivals that promote community-driven education, peer-to-peer collaboration, as well as provide a convenient avenue for seamless networking among enthusiasts and professionals alike within the tech industry. All our events are, therefore, well planned and structured to be of high quality, rich in content, experienced within a fun, secure, and inclusive environment, and uniquely identified by our signature hashtag *#AfricanTechFun*.
 
 Forwarding on the said vision, we are already working with the [Raspberry Pi Foundation](https://raspberrypi.org) to run two coder programs, [Raspberry Jam](https://raspberrypi.org/jam) and [CoderDojo](https://coderdojo.com), to support our collective learning and development.
 
@@ -58,15 +58,19 @@ Yeah, right. You bet we would.
 
 On the other hand, if you however are interested in exploring our platform to:
 * help mentor young learners
-* host a new or existing project
-* share knowledge and experience with the wider tech community
+* share knowledge and experience with the wider tech community 
+* host, maintain, and or collaborate on a new or existing open source project
+* contribute to improving the structure and advocating the future of this platform
+
 We would be very pleased to provide you with the most amazing support. Simply contact [freecityhacks@outlook.com](mailto://freecityhacks@outlook.com)
 
 We also encourage you to catch up on our [CONTRIBUTORS_GUIDE](https://github.com/freecityhacks/fch-docs/blob/master/CONTRIBUTORS_GUIDE.md) to learn more about our accepted standards and best behavioural practices. If you are one to look out for convenience, you're in luck. See our Safeguarding Policy at [SAFEGUARDING](https://github.com/freecityhacks/fch-docs/blob/master/SAFEGUARDING.md).
 
-We also welcome suggestions on improving our docs which you can easily do by creating an Issue. We promise to look into it. as soon as possible.
+We also welcome suggestions on improving our docs which you can easily do by creating an [Issue](https://help.github.com/en/articles/about-issues). We promise to look into it. as soon as possible.
 
-Looking forward to reading your **Hello, world!** message. Cool you <(-_*)>
+Looking forward to reading your **Hello, world!** message. Cool you
+
+<(-_*)>
 
 # License
 
