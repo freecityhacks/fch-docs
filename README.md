@@ -59,8 +59,8 @@ Yeah, right. You bet we would.
 On the other hand, if you however are interested in exploring our platform to:
 * help mentor young learners
 * share knowledge and experience with the wider tech community 
-* host, maintain, and or collaborate on a new or existing open source project
-* contribute to improving the structure and advocating the future of this platform
+* host, maintain, and/or collaborate on a new or existing open source project throught this platform
+* contribute to improving our structure and experience, and advocating for the future of this platform
 
 We would be very pleased to provide you with the most amazing support. Simply contact [freecityhacks@outlook.com](mailto://freecityhacks@outlook.com)
 
@@ -68,7 +68,7 @@ We also encourage you to catch up on our [CONTRIBUTORS_GUIDE](https://github.com
 
 We also welcome suggestions on improving our docs which you can easily do by creating an [Issue](https://help.github.com/en/articles/about-issues). We promise to look into it. as soon as possible.
 
-Looking forward to reading your **Hello, world!** message. Cool you
+Looking forward to reading your **Hello, world!** message. Cool you!!
 
 <(-_*)>
 

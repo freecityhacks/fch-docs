@@ -6,7 +6,7 @@ Please note we have a *Code Of Conduct* and *Safeguarding Policy*, so do ensure 
 
 ## Pull Request Process For Hosted Projects
 
-In the event that you are contributing to any codebase hosted by our platform, please insure that you:
+In the event that you are contributing to any codebase hosted on our platform, please insure that you:
 
 1. remove 'install' or 'build' dependencies before the end of the layer when doing a 
    build.
@@ -18,7 +18,7 @@ In the event that you are contributing to any codebase hosted by our platform, p
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as contributors to *[Free City Hacks](https://github.com/freecityhacks)* pledge to making your participation in any programme or project we host or support a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+In the interest of fostering an open and welcoming environment, we as contributing members to *[Free City Hacks](https://github.com/freecityhacks)* pledge to making your participation in any programme or project we host or support a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
