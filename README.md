@@ -2,7 +2,7 @@
 
 ![Free City Hacks](files/img/icon-fch.png "icon-fch")
 
-Building up from the team that organized and facilitated [HacktoberfestinAba](https://HacktoberfestinAba.github.io), we've structured *Free City Hacks* to operate as a developer-focused platform that works to provide access to 'up-to-date' digital learning resources and support for the exploration and use of top-notch programming environments and magical maker kits leveraging the power of open source in celebrating our local maker culture.
+Building up from the team that organized and facilitated [HacktoberfestinAba](https://HacktoberfestinAba.github.io), we've structured *Free City Hacks* to operate as a developer-focused platform that works to improve the local tech experience by providing access to 'up-to-date' digital learning resources and support for the exploration and use of top-notch programming environments and magical maker kits leveraging the power of open source in celebrating our local maker culture.
 
 ## Our Vision
 
@@ -10,15 +10,15 @@ Developers hate stress. We'd love keeping it that way. [*#ultracogence*](https:/
 
 ## Our Mission
 
-To achieve this, we've made it our core mission to find sustainable ways for improving developers' access to rapidly evolving tech trends and provide the required assistance for young people to get acquainted with physical computing and digital making and, through their regular participation in our inspiring, practical-based, learning sessions and hands-on labs, supercharge and promote our signature *hashtag* alongside the products and services we are developing independently or in collaboration with our partners.
+To achieve this, we've made it our core mission to find sustainable ways for improving developers' access to rapidly evolving tech trends and to provide the required assistance for young people to get acquainted with physical computing and digital making and, through their regular participation in our inspiring, practical-based, learning sessions and hands-on labs, supercharge and promote our signature *hashtag* alongside the products and services we are developing independently or in collaboration with our partners.
 
 ## The Hashtag
 
-The hashtag *#ultracogence* defines our native approach towards improving the traditional, inspirational artistry in Africa's rapidly evolving technological industry with due respect to our positively diversified, yet inclusive cultural heritage.
+The hashtag *#ultracogence* defines a clearly defined approach towards improving the traditional, inspirational artistry in our rapidly evolving technological ecospace with due respect to our positively diverse, yet inclusive cultural heritage just by keeping things simple, stupid.
 
 ## Our Activities
 
-On a simple note, we plan, organize, and facilitate tech meetups, workshops and festivals that promote community-driven education, peer-to-peer collaboration, as well as provide a convenient avenue for seamless networking among enthusiasts and professionals alike within the tech industry. All our events are, therefore, well planned and structured to be of high quality, rich in content, experienced within a fun, secure, and inclusive environment, and uniquely identified by our signature hashtag *#ultracogence*.
+Specifically, we plan, organize, and facilitate tech meetups, workshops and festivals that promote community-driven education, peer-to-peer collaboration, as well as provide a convenient avenue for seamless networking among enthusiasts and professionals alike within the tech industry. All our events are, therefore, well-planned and structured to be of high quality, rich in content, experienced within a fun, secure, and inclusive environment, and uniquely identified by our signature hashtag *#ultracogence*.
 
 Forwarding on the said vision, we are already working with the [Raspberry Pi Foundation](https://raspberrypi.org) to run two coder programs, [Raspberry Jam](https://raspberrypi.org/jam) and [CoderDojo](https://coderdojo.com), to support our collective learning and development.
 
