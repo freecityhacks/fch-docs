@@ -6,7 +6,7 @@ Building up from the team that organized and facilitated [HacktoberfestinAba](ht
 
 ## Our Vision
 
-Developers hate stress. We want to keep it that way. [*#AfricanTechFun*](https://twitter.com/freecityhacks/status/1150831205690019840)
+Developers hate stress. We'd love keeping it that way. [*#ultracogence*](https://twitter.com/freecityhacks/status/1183753003754557442)
 
 ## Our Mission
 
@@ -14,11 +14,11 @@ To achieve this, we've made it our core mission to find sustainable ways for imp
 
 ## The Hashtag
 
-The hashtag *#AfricanTechFun* defines our native approach towards improving the traditional, inspirational artistry in Africa's rapidly evolving technological industry with due respect to our positively diversified, yet inclusive cultural heritage.
+The hashtag *#ultracogence* defines our native approach towards improving the traditional, inspirational artistry in Africa's rapidly evolving technological industry with due respect to our positively diversified, yet inclusive cultural heritage.
 
 ## Our Activities
 
-On a simple note, we plan, organize, and facilitate tech meetups, workshops and festivals that promote community-driven education, peer-to-peer collaboration, as well as provide a convenient avenue for seamless networking among enthusiasts and professionals alike within the tech industry. All our events are, therefore, well planned and structured to be of high quality, rich in content, experienced within a fun, secure, and inclusive environment, and uniquely identified by our signature hashtag *#AfricanTechFun*.
+On a simple note, we plan, organize, and facilitate tech meetups, workshops and festivals that promote community-driven education, peer-to-peer collaboration, as well as provide a convenient avenue for seamless networking among enthusiasts and professionals alike within the tech industry. All our events are, therefore, well planned and structured to be of high quality, rich in content, experienced within a fun, secure, and inclusive environment, and uniquely identified by our signature hashtag *#ultracogence*.
 
 Forwarding on the said vision, we are already working with the [Raspberry Pi Foundation](https://raspberrypi.org) to run two coder programs, [Raspberry Jam](https://raspberrypi.org/jam) and [CoderDojo](https://coderdojo.com), to support our collective learning and development.
 
