@@ -22,7 +22,7 @@ On a simple note, we plan, organize, and facilitate tech meetups, workshops and 
 
 Forwarding on the said vision, we are already working with the [Raspberry Pi Foundation](https://raspberrypi.org) to run two coder programs, [Raspberry Jam](https://raspberrypi.org/jam) and [CoderDojo](https://coderdojo.com), to support our collective learning and development.
 
-Through both programs, we aim to inspire and encourage young people to get involved in the field of computing within an ecosystem where they find it easy to access and tinker with innovative programming tools to build aesthetically enhanced and interactive platforms *the African way*.
+Through both programs, we aim to inspire and encourage young people to get involved in the field of computing within an ecosystem where they find it easy to access and tinker with innovative programming tools to build aesthetically enhanced and interactive platforms.
 
 ## Author
 
