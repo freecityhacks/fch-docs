@@ -2,7 +2,7 @@
 
 ![Free City Hacks](files/img/icon-fch.png "icon-fch")
 
-Building up from the team that organized and facilitated [HacktoberfestinAba](https://HacktoberfestinAba.github.io), we've structured *Free City Hacks* to operate as a developer-focused platform that works to improve the local tech experience by providing access to 'up-to-date' digital learning resources and support for the exploration and use of top-notch programming environments and magical maker kits leveraging the power of open source in celebrating our local maker culture.
+Building up from the team that organized and facilitated [HacktoberfestinAba](https://HacktoberfestinAba.github.io) and officially launching operations in January 2020, we've structured *Free City Hacks* to operate as a developer-focused platform that works to improve the local tech experience by providing access to 'up-to-date' digital learning resources and support for the exploration and use of top-notch programming environments and magical maker kits leveraging the power of open source in celebrating our local maker culture.
 
 ## Our Vision
 
