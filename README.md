@@ -9,9 +9,9 @@ We are more than just a name. We are a game changer.
 
 From all around the world of science, we hunt for the latest stories covering inventions, discoveries, products releases as well as world-class learning resources to fuel your enganement with evolving technologies. Actually, we'd like you to know what's out there, what's coming next, and what's not very important at the moment so you can always easily employ current tech trends in hacking your everyday life.
 
-Plus, for our awesome developers, we bring in regular jams and seasoned workshops crafted by international tech communities just to spice up your tech experience and keep the journey relatively stress-free.
+Plus, for our awesome developers, we bring in regular jams and seasoned workshops crafted by international tech communities just to spice up your experience and keep the journey relatively stress-free.
 
-Forwarding on the said mision, we are supporting a [Raspberry Jam](https://raspberrypi.org/jam) and a [CoderDojo](https://coderdojo.com). Through both programs, we aim to inspire and encourage young people to get into computing.
+Forwarding on the said mission, we are supporting a [Raspberry Jam](https://raspberrypi.org/jam) and a [CoderDojo](https://coderdojo.com). Through both programs, we aim to inspire and encourage young people to get into computing.
 
 ## The Hashtag
 
@@ -43,7 +43,7 @@ Work:
 * [GitHub](https://github.com/freecityhacks)
 * [Dojo](https://zen.coderdojo.com/dojos/ng/aba/aba-freecityhacks)
  
-# Contributing & Volunteering
+## Contributing & Volunteering
 
 Knowing that open-minded, voluntary contributions to projects like this require high-value selflessness, we are readily on the lookout for cool people who are interested in helping to improve community-centered tech experience. Care, just a step further, to just DM us [@freecityhacks](https://twitter.com/freecityhacks) and we will be glad to give you a welcoming response.
 
@@ -58,6 +58,6 @@ Looking forward to reading your **Hello, world!** message.
 
 Stay awesome!! <(-_*)>
 
-# License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/freecityhacks/fch-docs/blob/master/LICENSE) file for details.
