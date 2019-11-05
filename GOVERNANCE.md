@@ -1,6 +1,6 @@
 # Free City Hacks' Governance
 
-This poicy is implemented as the binding document that governs our internal working policy, effective January 2019, and will be reviewed periodically (see revision sections). The last modification was made in October 2019.
+This poicy is implemented as the binding document that governs our internal working policy, effective January 2020, and will be reviewed periodically (see revision sections). The last modification was made in October 2020.
 
 ## Goals
 
@@ -184,7 +184,7 @@ Requirements for forming a project (or team) on Free City Hacks:
 
 The purpose of the project formation phase is to work out what the project is about, get community buy-in and help the future project gain publicity and momentum. The formation phase is driven by that project's project lead. The project mentor's role is to advise and support the project lead in getting the project started.
 
-The project proposal is a document that is published on forums.the official platform and describes:
+The project proposal is a document that is published on the official platform and describes:
 
 - What the project is aiming to achieve, i.e., the project charter and project goals,
 - What components/code and in which code lines (new or components in other projects) the project aims to deliver,
