@@ -15,7 +15,7 @@ Forwarding on the said mision, we are supporting a [Raspberry Jam](https://raspb
 
 ## The Hashtag
 
-Our signature hashtag envelops a clearly defined approach towards improving the traditional, inspirational artistry in our rapidly evolving technological ecospace with due respect to our positively diverse, yet inclusive cultural heritage just by keeping our activities simplified. Join us every October for our flagship hackathon where we celebrate innovation and the open source philosophy.
+Our signature hashtag #Ultracogence🚀 envelops a clearly defined approach towards improving the traditional, inspirational artistry in our rapidly evolving technological ecospace with due respect to our positively diverse, yet inclusive cultural heritage just by keeping our activities simplified. Join us every October for our flagship hackathon event where we celebrate innovation and the open source philosophy.
 
 ## Author
 
