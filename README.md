@@ -21,7 +21,7 @@ Plus, for our awesome developers, we bring in regular jams and seasoned workshop
 
 ## Team
 
-### Hack Lead
+### Author
 
 * [David C.](https://github.com/davidconoh)
  
