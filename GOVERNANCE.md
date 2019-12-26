@@ -62,9 +62,9 @@ For questions that affect several projects, committers and project leads of matu
 
 ## Roles
 
-### Projects and Teams
+### Project/Team
 
-Free City Hacks organizes itself into a number of projects, which follow the Project Governance (or Project Lifecycle) as outlined in this document. Projects are run by individuals and are often referred to as teams to highlight the collaborative nature of development. For example, each project has a team page on the official website.
+Free City Hacks organizes her projects into a number of hacks, which follow the Project Governance (or Project Lifecycle) as outlined in this document. Projects are run by individuals and are often referred to as teams to highlight the collaborative nature of development. For example, each project has a repo on the official GitHub Organization including this one.
 
 ### Project Lead
 

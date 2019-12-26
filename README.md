@@ -5,28 +5,39 @@ We are more than just a name. We are a game changer.
 ![Free City Hacks](files/img/icon-fch.png "icon-fch")
 
  
-## Our Mission
+## Our Mantra
 
-From all around the world of science, we hunt for the latest stories covering inventions, discoveries, products releases as well as world-class learning resources to fuel your enganement with evolving technologies. Actually, we'd like you to know what's out there, what's coming next, and what's not very important at the moment so you can always easily employ current tech trends in hacking your everyday life.
-
-Plus, for our awesome developers, we bring in regular jams and seasoned workshops crafted by international tech communities just to spice up your experience and keep the journey relatively stress-free.
-
-Forwarding on the said mission, we are supporting a [Raspberry Jam](https://raspberrypi.org/jam) and a [CoderDojo](https://coderdojo.com). Through both programs, we aim to inspire and encourage young people to get into computing.
+Supercharging your digital making experience. #Ultracogence🚀
 
 ## The Hashtag
 
-Our signature hashtag #Ultracogence🚀 envelops a clearly defined approach towards improving the traditional, inspirational artistry in our rapidly evolving technological ecospace with due respect to our positively diverse, yet inclusive cultural heritage just by keeping our activities simplified. Join us every October for our flagship hackathon event where we celebrate innovation and the open source philosophy.
+Our signature hashtag #Ultracogence🚀 envelops a clearly defined approach towards improving the traditional, inspirational artistry in our rapidly evolving technological ecospace with due respect to our positively diverse, yet inclusive cultural heritage just by keeping our activities simplified. Join us every October for our flagship conference where we celebrate the open culture and engage in the global hacking experience, our own way.
 
-## Author
+## Our Work
+
+From all around the world of digital making, we hunt for the latest stories covering inventions, discoveries, products releases as well as world-class learning resources to fuel your enganement with evolving technologies. Actually, we'd like you to know what's out there now, what's coming soon enough, and what's not looking like scoring the big leap into tomorrow so you can always easily employ current tech trends in hacking your everyday life.
+
+Plus, for our awesome developers, we bring in regular jams and seasoned workshops crafted by global hacker community just to spice up your experience and keep the journey relatively stress-free.
+
+## Team
+
+### Hack Lead
 
 * [David C.](https://github.com/davidconoh)
  
-## Maintainers/Advocates
+### Project Leads
 
-* [Andrew Miracle](https://github.com/koolamusic)
 * [Fay Vor](https://github.com/phavor)
 * [Opara Prosper](https://github.com/OPARA-PROSPER)
 
+### Maintainers
+
+* [Andrew Miracle](https://github.com/koolamusic)
+* [Vincent Iroleh](https://github.com/vincentiroleh)
+
+## Mentor
+
+* [Anya Uchenna](https://github.com/uchennaanya)
 
 ## Visit Us
 
@@ -34,14 +45,9 @@ Care to explore any of our platforms? Visit us:
 
 Social:
 
-* [Facebook](https://facebook.com/freecityhacks)
 * [Twitter](https://twitter.com/freecityhacks)
-* [Eventbrite](https://freecityhacks.eventbrite.com)
-
-Work:
-
 * [GitHub](https://github.com/freecityhacks)
-* [Dojo](https://zen.coderdojo.com/dojos/ng/aba/aba-freecityhacks)
+* [Eventbrite](https://freecityhacks.eventbrite.com)
  
 ## Contributing & Volunteering
 

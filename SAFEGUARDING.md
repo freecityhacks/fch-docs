@@ -86,7 +86,7 @@ Members or participants who have a complaint or concern relating to safeguarding
 
 Free City Hacks will follow up safeguarding reports and concerns according to policy and procedure, and legal and statutory obligations and will apply appropriate disciplinary measures to staff found in breach of policy. We will also offer support to survivors of harm caused by any member of our working team or associated personnel, regardless of whether a formal internal response is carried out (such as an internal investigation). Decisions regarding support will be led by a collaborative decision made by a member of our team and the survivor.
 
-Since our works emphasizes on building a foundational model for inclusive learning, we are open to partnerships with well known organizations like the [Raspberry Pi](https://raspberrypi.org) to help in structurng that safe and convenient, top-notch learning platform as envisioned in *#AfricanTechFun*.
+Since our works emphasizes on building a foundational model for inclusive learning, we are open to partnerships with well known organizations like the [Raspberry Pi](https://raspberrypi.org) to help in structurng that safe and convenient, top-notch learning experience as envisioned in *#Ultracogence🚀*.
 
 ## Confidentiality
 
