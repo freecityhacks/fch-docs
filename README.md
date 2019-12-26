@@ -35,7 +35,7 @@ Plus, for our awesome developers, we bring in regular jams and seasoned workshop
 * [Andrew Miracle](https://github.com/koolamusic)
 * [Vincent Iroleh](https://github.com/vincentiroleh)
 
-## Mentor
+### Mentor
 
 * [Anya Uchenna](https://github.com/uchennaanya)
 
