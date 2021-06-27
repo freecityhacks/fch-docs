@@ -1,10 +1,18 @@
-# Free City Hacks' Governance
+`````````````````````````````````````````````
+
+* Copyright Yonder Hacks Contributors
+
+* SPDX Identifier: Apache-2.0
+
+``````````````````````````````````````````````
+
+# Yonder Hacks' Governance
 
 This poicy is implemented as the binding document that governs our internal working policy, effective January 2020, and will be reviewed periodically (see revision sections). The last modification was made in October 2020.
 
 ## Goals
 
-The goals of Free City Hacks' Governance are to:
+The goals of Yonder Hacks' Governance are to:
 
 - Create a set of minimum requirements for any project or sub-project we host
 - Create a lightweight project life cycle that:
@@ -14,14 +22,14 @@ The goals of Free City Hacks' Governance are to:
   - leads to non-viable projects failing quickly, and
   - provides opportunities for other community members.
 - Avoid bureaucracy, i.e., the life cycle should be as informal as possible,
-- Encourage Free City Hacks-related projects to be hosted on our official platform rather than elsewhere, and
+- Encourage Yonder Hacks-related projects to be hosted on our official platform rather than elsewhere, and
 - Set clear expectations to vendors, upstream and downstream projects, and community members.
 
 ## Principles
 
 ### Openness
 
-Free City Hacks is open to all individuals in their individual capacities, and provides the same opportunity to all. Everyone participates with the same rules. There are no rules to exclude, prima facie, any potential individual contributors, which include individuals associated with direct competitors in the marketplace.
+Yonder Hacks is open to all individuals in their individual capacities, and provides the same opportunity to all. Everyone participates with the same rules. There are no rules to exclude, prima facie, any potential individual contributors, which include individuals associated with direct competitors in the marketplace.
 
 ### Transparency
 
@@ -29,15 +37,15 @@ All project discussions, minutes, deliberations, project plans, designs, plans f
 
 ### Meritocracy
 
-The Free City Hacks community is a meritocracy. The more you contribute, the more responsibility you will earn. Leadership roles in Free City Hacks are also merit-based and earned by peer acclaim.
+The Yonder Hacks community is a meritocracy. The more you contribute, the more responsibility you will earn. Leadership roles in Yonder Hacks are also merit-based and earned by peer acclaim.
 
 ### Consensus Decision Making
 
-Free City Hacks projects or teams are self-governing and driven by the people who volunteer for the job. When more formal decision making and coordination is required, decisions are taken with a ["lazy consensus"](http://openoffice.apache.org/docs/governance/lazyConsensus.html) approach: a few positive votes with no negative vote is enough to get going.
+Yonder Hacks projects or teams are self-governing and driven by the people who volunteer for the job. When more formal decision making and coordination is required, decisions are taken with a ["lazy consensus"](http://openoffice.apache.org/docs/governance/lazyConsensus.html) approach: a few positive votes with no negative vote is enough to get going.
 
 Sometimes a member of the community will believe a specific action is the correct one for the community but are not sure enough to proceed with the work under the lazy consensus model. In these circumstances they can state 'Lazy Consensus' is in operation.
 
-What this means is that they make a proposal and state that they will start implementing it in **72 hours** unless someone objects. 72 hours is chosen because it accounts for different timezones and non-Free City Hacks commitments. If the 72 hours are touching a weekend/holidays it would be wise to extend the timeframe a bit. This will ensure that people can participate in the proposal even when they were offline over the weekend.
+What this means is that they make a proposal and state that they will start implementing it in **72 hours** unless someone objects. 72 hours is chosen because it accounts for different timezones and non-Yonder Hacks commitments. If the 72 hours are touching a weekend/holidays it would be wise to extend the timeframe a bit. This will ensure that people can participate in the proposal even when they were offline over the weekend.
 
 Voting is done with numbers:
 
@@ -51,29 +59,29 @@ A negative vote should include an alternative proposal or a detailed explanation
 
 ### Refereeing
 
-Free City Hacks' projects and teams are not democracies, but meritocracies. In situations where there is disagreement on issues related to the day-to-day running of the project, Committers and Project Leads are expected to act as referees and make a decision on behalf of the Free City Hacks community. Referees should consider whether making a decision may be divisive and damaging for the
-Free City Hacks community. In such cases, the committers of the project can privately vote on an issue, giving the decision more weight.
+Yonder Hacks' projects and teams are not democracies, but meritocracies. In situations where there is disagreement on issues related to the day-to-day running of the project, Committers and Project Leads are expected to act as referees and make a decision on behalf of the Yonder Hacks community. Referees should consider whether making a decision may be divisive and damaging for the
+Yonder Hacks community. In such cases, the committers of the project can privately vote on an issue, giving the decision more weight.
 
 ### Last Resort
 
 In some rare cases, the lazy consensus approach may lead to the community being paralyzed. Thus, as a last resort when consensus cannot be achieved on a question internal to a project, the final decision will be made by a secret ballot majority vote amongst the committers and project lead. If the vote is tied, the project lead gets an extra vote to break the tie.
 
-For questions that affect several projects, committers and project leads of mature projects will hold a secret ballot majority vote. If the vote is tied, the Free City Hacks Steering Committee will break the tie through a casting vote.
+For questions that affect several projects, committers and project leads of mature projects will hold a secret ballot majority vote. If the vote is tied, the Yonder Hacks Steering Committee will break the tie through a casting vote.
 
 ## Roles
 
 ### Project/Team
 
-Free City Hacks organizes her projects into a number of hacks, which follow the Project Governance (or Project Lifecycle) as outlined in this document. Projects are run by individuals and are often referred to as teams to highlight the collaborative nature of development. For example, each project has a repo on the official GitHub Organization including this one.
+Yonder Hacks organizes her projects into a number of hacks, which follow the Project Governance (or Project Lifecycle) as outlined in this document. Projects are run by individuals and are often referred to as teams to highlight the collaborative nature of development. For example, each project has a repo on the official GitHub Organization including this one.
 
 ### Project Lead
 
-Free City Hacks projects and teams are managed by a Project Lead, who is also a committer of the project/team they lead. Project Lead is the public figurehead of the project and is responsible for the health of the project. Due to their status in the community, project leads can also act as referees should disagreements amongst committers of the project arise. The project lead
+Yonder Hacks projects and teams are managed by a Project Lead, who is also a committer of the project/team they lead. Project Lead is the public figurehead of the project and is responsible for the health of the project. Due to their status in the community, project leads can also act as referees should disagreements amongst committers of the project arise. The project lead
 typically also has write access to resources, such as the web page of a specific project.
 
 ### Maintainers
 
-Maintainers own one or several components in a project hosted by Free City Hacks. A maintainer reviews and approves changes that affect their component(s). It is a maintainer's prime responsibility to review, comment on, co-ordinate and accept patches from
+Maintainers own one or several components in a project hosted by Yonder Hacks. A maintainer reviews and approves changes that affect their component(s). It is a maintainer's prime responsibility to review, comment on, co-ordinate and accept patches from
 community members, and to maintain the design cohesion of their components. A project's maintainers are listed in a MAINTAINERS file in the root of that project's code repository or documentation page.
 
 ### Committers
@@ -81,9 +89,9 @@ community members, and to maintain the design cohesion of their components. A pr
 Committers are contributors who are allowed to commit changes into a repository. The committer acts on the wishes of the maintainer and applies changes that have been approved by the respective maintainer(s) to the repository. Due to their status in the community, committers can also act as referees, should disagreements amongst maintainers arise. Committers are listed on the project's team web page.
 
 
-### Free City Hacks Steering Committee
+### Yonder Hacks Steering Committee
 
-The Free City Hacks Steering Committee consists of members who are committed to steering Free City Hacks to advance its market and technical success, and who serve as positive ambassadors for the project. The Free City Hacks Steering Committee manages non-technical aspects of Free City Hacks including funding for shared project infrastructure, marketing and events, and managing Free City Hacks trademarks. The Steering Committee leaves all technical decisions to the open source meritocracy.
+The Yonder Hacks Steering Committee consists of members who are committed to steering Yonder Hacks to advance its market and technical success, and who serve as positive ambassadors for the project. The Yonder Hacks Steering Committee manages non-technical aspects of Yonder Hacks including funding for shared project infrastructure, marketing and events, and managing Yonder Hacks trademarks. The Steering Committee leaves all technical decisions to the open source meritocracy.
 
 ### Mentor
 
@@ -91,13 +99,13 @@ Younger projects may have a need for a mentor to help ensure that the project wi
 
 ### Sponsor
 
-To form a new Free City Hacks project or team, we require a sponsor to support the creation of the new project. A sponsor can be a project lead or committer of a mature project, a member of the Steering Committee or the community manager. This ensures that a distinguished community member supports the idea behind the project and is responsible to find an appropriate mentor for the project.
+To form a new Yonder Hacks project or team, we require a sponsor to support the creation of the new project. A sponsor can be a project lead or committer of a mature project, a member of the Steering Committee or the community manager. This ensures that a distinguished community member supports the idea behind the project and is responsible to find an appropriate mentor for the project.
 
 ## Making Contributions
 
-Making contributions in Free City Hacks follows the conventions as they are known in the Linux Kernel community. In summary, contributions are made through pull requests that are reviewed by the community. Free City Hacks does not require community members to sign contribution or committer agreements.
+Making contributions in Yonder Hacks follows the conventions as they are known in the Linux Kernel community. In summary, contributions are made through pull requests that are reviewed by the community. Yonder Hacks does not require community members to sign contribution or committer agreements.
 
-More information on making contributions can be found [here](https://github.com/freecityhacks/fch-docs/blob/master/CONTRIBUTORS_GUIDE.md)
+More information on making contributions can be found [here](https://github.com/yonderhacks/yh-docs/blob/master/CONTRIBUTORS_GUIDE.md)
 
 ## Elections and Formal Votes
 
@@ -113,7 +121,7 @@ evidence such as specific patches and other evidence supporting the nomination s
 
 A contributor who has earned the trust of committers in their project can also, through an election, be promoted to Committer. A two-stage mechanism is used:
 
-- **Nomination:** Community members should nominate candidates by posting a proposal by sending a direct message to the "Appointments" group on Free City Hacks' Forum, explaining the candidate's contributions to the project and thus why they should be elected to become a Committer of the project. The nomination should cite evidence such as patches and other contributions where the case is not obvious. Existing Committers will review all proposals, check whether the nominee would be willing to accept the nomination and publish suitable nominations in the Forum publicly for wider community input.
+- **Nomination:** Community members should nominate candidates by posting a proposal by sending a direct message to the "Appointments" group on Yonder Hacks' Forum, explaining the candidate's contributions to the project and thus why they should be elected to become a Committer of the project. The nomination should cite evidence such as patches and other contributions where the case is not obvious. Existing Committers will review all proposals, check whether the nominee would be willing to accept the nomination and publish suitable nominations in the Forum publicly for wider community input.
 - **Election:** A committer will be elected using the decision making process outlined earlier. Voting will be done by committers for that project privately using a voting form that is created by the community manager. Should there be a negative vote the project lead and community manager will try and resolve the situation and reach consensus. Results will be published in the public forums.
 
 ### Project Lead Elections
@@ -122,7 +130,7 @@ Projects which lose their project lead are at risk of failing. Should this occur
 
 ### Formal Votes
 
-Sometimes it is necessary to conduct formal voting within the Free City Hacks community (outside of elections). Formal votes are necessary when processes and procedures are introduced or changed, or as part of the Project Governance. Who is eligible to vote, depends on whether the scope of a process or procedure is **local** to a project or team, or whether it affects all projects (**global**). An examples of local scope is a code review policy which applies to the EMR project only. Examples of global scope are changes to this document or votes outlined in the Free City Hacks Community Governance document.
+Sometimes it is necessary to conduct formal voting within the Yonder Hacks community (outside of elections). Formal votes are necessary when processes and procedures are introduced or changed, or as part of the Project Governance. Who is eligible to vote, depends on whether the scope of a process or procedure is **local** to a project or team, or whether it affects all projects (**global**). An examples of local scope is a code review policy which applies to the EMR project only. Examples of global scope are changes to this document or votes outlined in the Yonder Hacks Community Governance document.
 
 - **Scope:** Local
   - **Who reviews:** Members of developer mailing lists of the affected projects.
@@ -130,8 +138,8 @@ Sometimes it is necessary to conduct formal voting within the Free City Hacks co
   by the process, procedure, etc. are allowed to vote. This includes maintainers
   from incubation projects (if the scope affects the project).
 - **Scope:** Global
-  - **Who reviews:** Readers of all Free City Hacks Forum project categories.
-  - **Who votes:** Maintainers of all **mature projects** and the Free City Hacks
+  - **Who reviews:** Readers of all Yonder Hacks Forum project categories.
+  - **Who votes:** Maintainers of all **mature projects** and the Yonder Hacks
   community manager are allowed to vote.
 
 The community manager first arranges a public review, followed by a timed private vote. Public review and voting should be open for a minimum of a week each. For voting a traceable poll mechanism, e.g., a voting system that keeps auditable and tamper proof records, must be used. Voting follows the conventions as laid out in "Principle: Consensus Decision Making".
@@ -144,11 +152,11 @@ The proposal is to follow a simple basic flow:
 
 ![alt tag](http://i.imgur.com/f1mgSxN.png)
 
-A project hosted on Free City Hacks starts with an idea which through the process of project formation will grow into a project proposal. The project proposal will need to satisfy some basic conditions, will be put out for community review and is then put to a vote to all maintainers and project leads of mature Free City Hacks' hosted projects following the usual decision making process.
+A project hosted on Yonder Hacks starts with an idea which through the process of project formation will grow into a project proposal. The project proposal will need to satisfy some basic conditions, will be put out for community review and is then put to a vote to all maintainers and project leads of mature Yonder Hacks' hosted projects following the usual decision making process.
 
-For agreed project proposals, Free City Hacks will provide basic infrastructure and the project can get started. Projects in incubation are working towards a set of goals, will get additional support and marketing opportunities from Free City Hacks. However, there will also be regular checkpoints to see whether the project is progressing. Should it turn out that a project is not viable any more, it will be archived after an archival review and vote. For a project to graduate, some basic conditions must be satisfied. If a project in incubation has achieved the point where it believes it is mature enough to graduate, it can request a Graduation community review followed by a vote.
+For agreed project proposals, Yonder Hacks will provide basic infrastructure and the project can get started. Projects in incubation are working towards a set of goals, will get additional support and marketing opportunities from Yonder Hacks. However, there will also be regular checkpoints to see whether the project is progressing. Should it turn out that a project is not viable any more, it will be archived after an archival review and vote. For a project to graduate, some basic conditions must be satisfied. If a project in incubation has achieved the point where it believes it is mature enough to graduate, it can request a Graduation community review followed by a vote.
 
-Mature projects are expected to run themselves. However, at some point a mature project will lose momentum and developers. If this is the case the Free City Hacks community can request an archival review, which follows the usual pattern.
+Mature projects are expected to run themselves. However, at some point a mature project will lose momentum and developers. If this is the case the Yonder Hacks community can request an archival review, which follows the usual pattern.
 
 Archival reviews have two purposes:
 
@@ -159,7 +167,7 @@ It is also possible to revive archived projects. However these are treated almos
 
 ### Requesting Reviews, Reviews and Voting
 
-**Requesting Reviews:** Project Proposal and Graduation Reviews are requested by the (prospective) project lead of the project by contacting the community manager providing the necessary documentation. An archival review can be requested by any maintainer of a mature project or by the Free City Hacks community manager. The community manager will then publish relevant material on the respective forums.
+**Requesting Reviews:** Project Proposal and Graduation Reviews are requested by the (prospective) project lead of the project by contacting the community manager providing the necessary documentation. An archival review can be requested by any maintainer of a mature project or by the Yonder Hacks community manager. The community manager will then publish relevant material on the respective forums.
 
 **Reviews:** These are off-line reviews which are open to all community members by which a proposal is published for review. The purpose of the review is two-fold:
 
@@ -172,15 +180,15 @@ After a review, the requester of the review may decide to withdraw, request a re
 
 ### Forming a Project
 
-Requirements for forming a project (or team) on Free City Hacks:
+Requirements for forming a project (or team) on Yonder Hacks:
 
 - A project needs a lead, who is willing to become the representating figure of the said project.
-- A project needs a sponsor, which can be a project lead of a mature project, a member of the Free City Hacks Steering Committee, or the community manager.
+- A project needs a sponsor, which can be a project lead of a mature project, a member of the Yonder Hacks Steering Committee, or the community manager.
 - There should be no dissent from other community members who would qualify as sponsor (see "Principle: Consensus Decision Making").
 - A project needs a mentor, which can be the project sponsor or a maintainer of a mature project.
-- A project needs to have a relationship to other projects or teams, i.e., it aims to develop software that has a dependency on other projects or teams hosted by Free City Hacks. If the project needs components in other projects to work, then this should also be stated.
+- A project needs to have a relationship to other projects or teams, i.e., it aims to develop software that has a dependency on other projects or teams hosted by Yonder Hacks. If the project needs components in other projects to work, then this should also be stated.
 - A project needs to be large and long-term enough to grant a separate project. For example adding support for a new clinical domain, adding additional functionality on top of existing projects, etc. Adding a new feature to an existing project should be performed within an existing project.
-- A project will deliver code using a license that is compatible with other Free City Hacks projects, ideally MPL 2.0 HD.
+- A project will deliver code using a license that is compatible with other Yonder Hacks projects, ideally MPL 2.0 HD.
 
 The purpose of the project formation phase is to work out what the project is about, get community buy-in and help the future project gain publicity and momentum. The formation phase is driven by that project's project lead. The project mentor's role is to advise and support the project lead in getting the project started.
 
@@ -188,7 +196,7 @@ The project proposal is a document that is published on the official platform an
 
 - What the project is aiming to achieve, i.e., the project charter and project goals,
 - What components/code and in which code lines (new or components in other projects) the project aims to deliver,
-- Key dependencies on other Free City Hacks projects or teams, if applicable,
+- Key dependencies on other Yonder Hacks projects or teams, if applicable,
 - A list of initial maintainers, if applicable,
 - A lists of any interested parties in the project, if applicable,
 - A lists of any planned initial code contributions, if applicable, and
@@ -200,17 +208,17 @@ The review is initiated by the project lead and follows the rules outlined in "R
 
 After a successful review, the following resources will be created for the project:
 
-- A category in the Free City Hacks forums,
+- A category in the Yonder Hacks forums,
 - A code repository, and
 - A project or team page on the official platform, in an area separate from mature projects, to be maintained by the project lead.
 
 ### Incubating a Project
 
-The purpose of the incubation phase is for a project to show that it is gathering momentum and adheres to the "Principles & Roles" of Free City Hacks projects. The project mentor will work closely with the project lead and there are at least quarterly informal review meetings with the mentor on how the project is doing. Should a mentor not be able to fulfill his/her role any more,
-it is the responsibility of the project lead to find another mentor. We advise that the project lead gives at least quarterly updates on the Free City Hacks blog
+The purpose of the incubation phase is for a project to show that it is gathering momentum and adheres to the "Principles & Roles" of Yonder Hacks projects. The project mentor will work closely with the project lead and there are at least quarterly informal review meetings with the mentor on how the project is doing. Should a mentor not be able to fulfill his/her role any more,
+it is the responsibility of the project lead to find another mentor. We advise that the project lead gives at least quarterly updates on the Yonder Hacks blog
 on how the project is doing.
 
-Free City Hacks will provide support to incubating projects. The project lead will work closely with the Free City Hacks community manager as well as with the project mentor.
+Yonder Hacks will provide support to incubating projects. The project lead will work closely with the Yonder Hacks community manager as well as with the project mentor.
 
 ### Archiving an Incubating project
 
@@ -233,11 +241,11 @@ Other items to look at during the review (depending on project are):
 
 1. It has up-to-date documentation and a core and group of people maintaining it.
 2. It publishes regular builds and tests.
-3. It promotes itself at Free City Hacks events and on the Free City Hacks blog.
+3. It promotes itself at Yonder Hacks events and on the Yonder Hacks blog.
 
 ### Mature Projects
 
-Mature projects are expected to be run and promote themselves. The project lead has significant responsibility in ensuring that this happens. The Free City Hacks Steering Committee and the community manager will help organize events, provide opportunities for the project to get new contributors and build a community, promote new releases on the blog and to the press, work with project members, etc. However the Free City Hacks Steering Committee and the community manager will not get involved in the day-to-day running of the project.
+Mature projects are expected to be run and promote themselves. The project lead has significant responsibility in ensuring that this happens. The Yonder Hacks Steering Committee and the community manager will help organize events, provide opportunities for the project to get new contributors and build a community, promote new releases on the blog and to the press, work with project members, etc. However the Yonder Hacks Steering Committee and the community manager will not get involved in the day-to-day running of the project.
 
 At some point during its lifecycle, a project may lose momentum. In other words, developers and users are not interested in the project any more. If this is the case, it may be time to archive the project. If the project has achieved its goals and is thus completed, it may also be time to archive the project.
 
@@ -249,9 +257,9 @@ These can happen in a number of situations:
 - A mature project has lost its developer and user base, and there is little or no activity.
 - The project has achieved its goals and/or fulfilled its charter. In other words, it has completed.
 
-In the first case, the review is triggered by the incubation project's mentor. Failing this, the review can be requested by any maintainer of any mature project (including the project's lead) or by the Free City Hacks community manager. See "Requesting Reviews, Reviews and Voting".
+In the first case, the review is triggered by the incubation project's mentor. Failing this, the review can be requested by any maintainer of any mature project (including the project's lead) or by the Yonder Hacks community manager. See "Requesting Reviews, Reviews and Voting".
 
-The review is essentially a pitch why the project should be archived. The purpose of the review is not necessarily to archive a project, but also to provide a last opportunity for interested parties in the Free City Hacks community to save the project and step up. The Free City Hacks community manager will support efforts to save the project, should community members want to step up. In the case where a project has been completed, the normal situation would be for the project lead to make the case for archival.
+The review is essentially a pitch why the project should be archived. The purpose of the review is not necessarily to archive a project, but also to provide a last opportunity for interested parties in the Yonder Hacks community to save the project and step up. The Yonder Hacks community manager will support efforts to save the project, should community members want to step up. In the case where a project has been completed, the normal situation would be for the project lead to make the case for archival.
 
 ### Archived Projects
 
@@ -261,7 +269,7 @@ When a project is archived, the following happens:
 2. The project's documentation pages will be tagged as "archived". A project may be completed, i.e.,  it has achieved its goals and/or fulfilled its charter, in which case it is tagged as "completed" and "archived".
 3. The project or team page on the official platform will be moved into an "Archive" or "Completed" section.
 
-In cases where the project has delivered code into other Free City Hacks projects, the code will be:
+In cases where the project has delivered code into other Yonder Hacks projects, the code will be:
 
 - Deprecated at the point where the project is archived, and
 - The project which now contains the archived code can (but does not have to) remove the code in a subsequent release (it should however give users sufficient time to adapt)
@@ -276,13 +284,18 @@ If a project lead leaves during the formation phase without finding a successor,
 
 ### Incubation projects without Mentor
 
-Should an incubation project lose its mentor, the Free City Hacks community manager will support the project lead in finding a new mentor.
+Should an incubation project lose its mentor, the Yonder Hacks community manager will support the project lead in finding a new mentor.
 
 ## Acknowledgements
 
-*This work, "Free City Hacks Community Governance", is a derivative of "Xen Project Governance" by Xen Project, used under the Creative Commons Attribution 3.0 License (CC BY 3.0). "Free City Hacks  Community Governance" is licensed under the Creative Commons 4.0 International Attribution License (CC BY 4.0) by Humanitech
+*This work, "Yonder Hacks Community Governance", is a derivative of "Xen Project Governance" by Xen Project, used under the Creative Commons Attribution 3.0 License (CC BY 3.0). "Yonder Hacks  Community Governance" is licensed under the Creative Commons 4.0 International Attribution License (CC BY 4.0) by Humanitech
 Inc.*
 
 ## Change History
 
 - **ver. 0.1** Initial Draft, 19 October 2019
+- **ver. 0.2** Update with Notice, 27 June 2021
+
+## Maintainer
+
+[Anya Uchenna](https://github.com/uchennaanya)

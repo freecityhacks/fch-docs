@@ -1,17 +1,25 @@
-# Free City Hacks
+`````````````````````````````````````````````
+
+* Copyright Yonder Hacks Contributors
+
+* SPDX Identifier: Apache-2.0
+
+``````````````````````````````````````````````
+
+# Yonder Hacks
 
 We are more than just a name. We are a game changer.
 
-![Free City Hacks](files/img/icon-fch.png "icon-fch")
+![Yonder Hacks](files/img/yh-icon.png "yh-icon")
 
  
 ## Our Mantra
 
-Supercharging your digital making experience. #Ultracogence🚀
+#Ultracogence - Supercharging your tech experience. One event at a time ! ! !
 
 ## The Hashtag
 
-Our signature hashtag #Ultracogence🚀 envelops a clearly defined approach towards improving the traditional, inspirational artistry in our rapidly evolving technological ecospace with due respect to our positively diverse, yet inclusive cultural heritage just by keeping our activities simplified. Join us every October for our flagship conference where we celebrate the open culture and engage in the global hacking experience, our own way.
+Our signature hashtag #Ultracogence envelops a clearly defined approach towards improving the traditional, inspirational artistry in our rapidly evolving technological ecospace with due respect to our positively diverse, yet inclusive cultural heritage just by keeping our activities simplified. Join us every year as we celebrate the open culture and engage in the global hacking experience, our own way.
 
 ## Our Work
 
@@ -23,11 +31,11 @@ Plus, for our awesome developers, we bring in regular jams and seasoned workshop
 
 ### Author
 
-* [David C.](https://github.com/davidconoh)
+* [Dave XN](https://github.com/davidconoh)
  
 ### Project Leads
 
-* [Fay Vor](https://github.com/phavor)
+* [Favour George](https://github.com/phavor)
 * [Opara Prosper](https://github.com/OPARA-PROSPER)
 
 ### Maintainers
@@ -45,25 +53,33 @@ Care to explore any of our platforms? Visit us:
 
 Social:
 
-* [Twitter](https://twitter.com/freecityhacks)
-* [GitHub](https://github.com/freecityhacks)
-* [Eventbrite](https://freecityhacks.eventbrite.com)
+* [LinkedIn](https://linkedin.com/company/yonderhacks)
+* [GitHub](https://github.com/yonderhacks)
+* [Eventbrite](https://yonderhacks.eventbrite.com)
  
 ## Contributing & Volunteering
 
-Knowing that open-minded, voluntary contributions to projects like this require high-value selflessness, we are readily on the lookout for cool people who are interested in helping to improve community-centered tech experience. Care, just a step further, to just DM us [@freecityhacks](https://twitter.com/freecityhacks) and we will be glad to give you a welcoming response.
+Knowing that open-minded, voluntary contributions to projects like this require high-value selflessness, we are readily on the lookout for cool people who are interested in helping to improve community-centered tech experience.:
 
+* See us @[Yonder Hacks](https://linkedin.com/company/yonderhacks) and we will be glad to give you a welcoming response.
 
-However, if you are interested in supporting the work we do in our Jams or the Dojo, simply contact [freecityhacks@outlook.com](mailto://freecityhacks@outlook.com)
+* If you are interested in supporting the work we do in our jams, simply contact [yonderhacks@outlook.com](mailto://yonderhacks@outlook.com)
 
-We also encourage you to catch up on our [CONTRIBUTORS_GUIDE](https://github.com/freecityhacks/fch-docs/blob/master/CONTRIBUTORS_GUIDE.md) to learn more about our accepted standards and best behavioural practices. If you are one to look out for convenience, you're in luck. See our Safeguarding Policy at [SAFEGUARDING](https://github.com/freecityhacks/fch-docs/blob/master/SAFEGUARDING.md).
+* We encourage you, as well, to catch up on our [CONTRIBUTORS_GUIDE](https://github.com/yonderhacks/yh-docs/blob/master/CONTRIBUTORS_GUIDE.md) to learn more about our accepted standards and best behavioural practices. If you are one to look out for convenience, you're in luck. See our Safeguarding Policy at [SAFEGUARDING](https://github.com/yonderhacks/yh-docs/blob/master/SAFEGUARDING.md).
 
-We also welcome suggestions on improving our docs which you can easily do by creating an [Issue](https://help.github.com/en/articles/about-issues). We promise to look into it. as soon as possible.
+* We also welcome suggestions on improving our docs which you can easily do by creating an [Issue](https://help.github.com/en/articles/about-issues). We promise to look into it. as soon as possible.
 
 Looking forward to reading your **Hello, world!** message.
 
 Stay awesome!! <(-_*)>
 
-## License
+tails.
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/freecityhacks/fch-docs/blob/master/LICENSE) file for details.
+## Change History
+
+- **ver. 0.1** Initial Draft, 19 October 2019
+- **ver. 0.2** Update with Notice, 27 June 2021
+
+## Maintainer
+
+[Favour George](https://github.com/phavor)

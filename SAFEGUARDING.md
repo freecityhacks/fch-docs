@@ -1,8 +1,16 @@
-# Free City Hacks Safeguarding Policy
+`````````````````````````````````````````````
+
+* Copyright Yonder Hacks Contributors
+
+* SPDX Identifier: Apache-2.0
+
+``````````````````````````````````````````````
+
+# Yonder Hacks Safeguarding Policy
 
 ## Purpose
 
-The purpose of this policy is to protect the interest and the data of people, particularly children, at risk adults and beneficiaries of assistance, from any harm that may be caused due to their coming in contact with the *Free City Hacks* platform. This includes harm arising from: 
+The purpose of this policy is to protect the interest and the data of people, particularly children, at risk adults and beneficiaries of assistance, from any harm that may be caused due to their coming in contact with the *Yonder Hacks* platform. This includes harm arising from: 
 * the conduct of any contributor to our platform, both offline and online
 * the design and implementation of our programmes and activities 
 
@@ -10,7 +18,7 @@ The policy lays out the commitments made by our working team, and informs contri
 
 This policy does not cover: 
 * Sexual harassment outside our platform, both offline and online – this is dealt with by the appropriate Government Anti Bullying and Harassment Policy.
-* Safeguarding concerns in the wider community not perpetrated by *Free City Hacks* or any one of our associates.
+* Safeguarding concerns in the wider community not perpetrated by *Yonder Hacks* or any one of our associates.
 
 ## What Is Safeguarding?
 
@@ -25,17 +33,17 @@ Further definitions relating to safeguarding are provided in the glossary below.
 
 ## Policy Statement
 
-*Free City Hacks* believes that everyone we come in contact with, regardless of age, gender identity, disability, sexual orientation or ethnic origin has the right to be protected from all forms of harm, abuse, neglect and exploitation. We will not tolerate abuse and exploitation by any member of our working team or associated personnel.
+*Yonder Hacks* believes that everyone we come in contact with, regardless of age, gender identity, disability, sexual orientation or ethnic origin has the right to be protected from all forms of harm, abuse, neglect and exploitation. We will not tolerate abuse and exploitation by any member of our working team or associated personnel.
 
 This policy will address the following areas of safeguarding [as appropriate]: child safeguarding, adult safeguarding, data privacy, and protection from sexual exploitation and abuse. These key areas of safeguarding may have different policies and procedures associated with them.
 
-*Free City Hacks* commits to addressing safeguarding and data protection throughout its work, through the three pillars of prevention, reporting and response.
+*Yonder Hacks* commits to addressing safeguarding and data protection throughout its work, through the three pillars of prevention, reporting and response.
 
 # Prevention
 
-## Free City Hacks Responsibilities
+## Yonder Hacks Responsibilities
 
-The working team at *Free City Hacks* will:
+The working team at *Yonder Hacks* will:
 * ensure that all our members have access to, are familiar with, and know their responsibilities within this policy.
 * design and undertake all its programmes and activities in a way that protects people from any risk of harm that may arise from their coming into contact with us. This includes the way in which information about individuals involved with our platform is gathered and communciated
 * implement stringent safeguarding procedures when recruiting volunteers, managing positions, deploying responsibilities, and collaborating with associates 
@@ -67,26 +75,26 @@ Contributors to any or all of our programmes must not:
 
 ## Data Privacy
 
-The team at *Free City Hacks* is unavoidably interested in preventing the intentional or unintentional problems that may arise from our regular use of software and equipment. Therefore, developing a thorough policy for protecting available data is now more important than ever. Our internal working policy provides the team with constantly updated information required to develop, employ and sustain a recommendable roadmap for the proper use of mobile technology as well as information security and wireless access policies to protect the confidential data of our members and the people, organizations and communities we interact with on a daily.
+The team at *Yonder Hacks* is unavoidably interested in preventing the intentional or unintentional problems that may arise from our regular use of software and equipment. Therefore, developing a thorough policy for protecting available data is now more important than ever. Our internal working policy provides the team with constantly updated information required to develop, employ and sustain a recommendable roadmap for the proper use of mobile technology as well as information security and wireless access policies to protect the confidential data of our members and the people, organizations and communities we interact with on a daily.
 
 # Reporting
 
 ## Enabling Reports
 
-*Free City Hacks* will ensure that:
+*Yonder Hacks* will ensure that:
 * safe, appropriate, accessible means of reporting safeguarding concerns and data misuse are made available to our members and the communities we work with.
 * any person reporting concerns or complaints will do so through our officially recommended email.
 * our working team will also accept complaints from external sources such as members of the public, partners and official bodies.
 
 ### How To Report A Safeguarding Concern
 
-Members or participants who have a complaint or concern relating to safeguarding should report it to any available member of the working team as soon as posssible.  If the person does not feel comfortable reporting to the member of the team currently available (for example if they feel that the report will not be taken seriously, or if that person is implicated in the concern) they can directly contact [freecityhacks@outlook.com](mailto://freecityhacks@outlook.com).
+Members or participants who have a complaint or concern relating to safeguarding should report it to any available member of the working team as soon as posssible.  If the person does not feel comfortable reporting to the member of the team currently available (for example if they feel that the report will not be taken seriously, or if that person is implicated in the concern) they can directly contact [yonderhacks@outlook.com](mailto://yonderhacks@outlook.com).
 
 # Response
 
-Free City Hacks will follow up safeguarding reports and concerns according to policy and procedure, and legal and statutory obligations and will apply appropriate disciplinary measures to staff found in breach of policy. We will also offer support to survivors of harm caused by any member of our working team or associated personnel, regardless of whether a formal internal response is carried out (such as an internal investigation). Decisions regarding support will be led by a collaborative decision made by a member of our team and the survivor.
+Yonder Hacks will follow up safeguarding reports and concerns according to policy and procedure, and legal and statutory obligations and will apply appropriate disciplinary measures to staff found in breach of policy. We will also offer support to survivors of harm caused by any member of our working team or associated personnel, regardless of whether a formal internal response is carried out (such as an internal investigation). Decisions regarding support will be led by a collaborative decision made by a member of our team and the survivor.
 
-Since our works emphasizes on building a foundational model for inclusive learning, we are open to partnerships with well known organizations like the [Raspberry Pi](https://raspberrypi.org) to help in structurng that safe and convenient, top-notch learning experience as envisioned in *#Ultracogence🚀*.
+Since our works emphasizes on building a foundational model for inclusive learning, we are open to partnerships with well known organizations like the [Raspberry Pi](https://raspberrypi.org) to help in structurng that safe and convenient, top-notch learning experience as envisioned in *#Ultracogence*.
 
 ## Confidentiality
 
@@ -147,4 +155,13 @@ Sometimes also referred to as vulnerable adult. A person who is or may be in nee
 
 ### Attribution
 
-Our safeguarding guide was adopted from [Bond's Safeguarding poilicy template](https://www.bond.org.uk/resources/safeguarding-policy-templates)
+Our safeguarding guide was adopted from [Bond's Safeguarding poilicy template](https://www.bond.org.uk/resources/safeguarding-policy-templates).
+
+## Change History
+
+- **ver. 0.1** Initial Draft, 19 October 2019
+- **ver. 0.2** Update with Notice, 27 June 2021
+
+## Maintainer
+
+[Dave XN](https://github.com/davidconoh)

@@ -1,3 +1,11 @@
+`````````````````````````````````````````````
+
+* Copyright Yonder Hacks Contributors
+
+* SPDX Identifier: Apache-2.0
+
+``````````````````````````````````````````````
+
 # Contributing
 
 When contributing to any of our programmes, please first discuss the change you wish to make via our official communication channel, or any other method approved by the Developer/Maintainer of the said hack before making the change. 
@@ -18,7 +26,7 @@ In the event that you are contributing to this codebase, please insure that you:
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as contributing members to [Free City Hacks](https://github.com/freecityhacks) pledge to making your participation in any of our hacks a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+In the interest of fostering an open and welcoming environment, we as contributing members to [Yonder Hacks](https://github.com/yonderhacks) pledge to making your participation in any of our hacks a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
@@ -48,7 +56,7 @@ This Code applies within all our project space, and it also applies when an indi
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the working team at [freecityhacks@outlook.com](mailto://freecityhacks@outlook.com). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. Our working team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the working team at [yonderhacks@outlook.com](mailto://yonderhacks@outlook.com). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. Our working team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 *Developers*, *Maintainers* and *Contributors* who do not follow or enforce our *Code of Conduct* and *Safeguarding Policy* in good faith may face temporary or permanent repercussions as determined by the leadership board of our platform's including the working team's decision to unapologetically disengage from the said person(s).
 
@@ -60,7 +68,11 @@ This Code of Conduct is adapted from the [Contributor Covenant][homepage], versi
 
 For answers to common questions about this code of conduct, see https://www.contributor-covenant.org/faq
 
-## Reviewers
+## Change History
 
-* [Fay Vor](https://github.com/phavor)
-* [Opara Prosper](https://github.com/OPARA-PROSPER)
+- **ver. 0.1** Initial Draft, 19 October 2019
+- **ver. 0.2** Update with Notice, 27 June 2021
+
+## Maintainer
+
+[Andrew Miracle](https://github.com/koolamusic)
