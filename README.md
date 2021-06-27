@@ -36,7 +36,7 @@ Plus, for our awesome developers, we bring in regular jams and seasoned workshop
 ### Project Leads
 
 * [Favour George](https://github.com/phavor)
-* [Opara Prosper](https://github.com/OPARA-PROSPER)
+* [Opara Prosper](https://github.com/kodekage)
 
 ### Maintainers
 
