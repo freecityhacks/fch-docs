@@ -30,11 +30,11 @@ SPDX-License-Identifier: Apache-2.0
 
 The project maintains the following source code repositories:
 
-* https://github.com/yonderhacks/yh-docs/CONTRIBUTORS_GUIDE.md
-* https://github.com/yonderhacks/yh-docs/GOVERNANCE.md
-* https://github.com/yonderhacks/yh-docs/NOTICE.md
-* https://github.com/yonderhacks/yh-docs/README.md
-* https://github.com/yonderhacks/yh-docs/SAFEGUARDING.md
+* https://github.com/yonderhacks/docs/CONTRIBUTORS_GUIDE.md
+* https://github.com/yonderhacks/docs/GOVERNANCE.md
+* https://github.com/yonderhacks/docs/NOTICE.md
+* https://github.com/yonderhacks/docs/README.md
+* https://github.com/yonderhacks/docs/SAFEGUARDING.md
 
 ## Third-party Content
 

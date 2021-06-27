@@ -105,7 +105,7 @@ To form a new Yonder Hacks project or team, we require a sponsor to support the 
 
 Making contributions in Yonder Hacks follows the conventions as they are known in the Linux Kernel community. In summary, contributions are made through pull requests that are reviewed by the community. Yonder Hacks does not require community members to sign contribution or committer agreements.
 
-More information on making contributions can be found [here](https://github.com/yonderhacks/yh-docs/blob/master/CONTRIBUTORS_GUIDE.md)
+More information on making contributions can be found [here](https://github.com/yonderhacks/docs/blob/master/CONTRIBUTORS_GUIDE.md)
 
 ## Elections and Formal Votes
 

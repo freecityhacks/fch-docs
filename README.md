@@ -65,7 +65,7 @@ Knowing that open-minded, voluntary contributions to projects like this require 
 
 * If you are interested in supporting the work we do in our jams, simply contact [yonderhacks@outlook.com](mailto://yonderhacks@outlook.com)
 
-* We encourage you, as well, to catch up on our [CONTRIBUTORS_GUIDE](https://github.com/yonderhacks/yh-docs/blob/master/CONTRIBUTORS_GUIDE.md) to learn more about our accepted standards and best behavioural practices. If you are one to look out for convenience, you're in luck. See our Safeguarding Policy at [SAFEGUARDING](https://github.com/yonderhacks/yh-docs/blob/master/SAFEGUARDING.md).
+* We encourage you, as well, to catch up on our [CONTRIBUTORS_GUIDE](https://github.com/yonderhacks/docs/blob/master/CONTRIBUTORS_GUIDE.md) to learn more about our accepted standards and best behavioural practices. If you are one to look out for convenience, you're in luck. See our Safeguarding Policy at [SAFEGUARDING](https://github.com/yonderhacks/docs/blob/master/SAFEGUARDING.md).
 
 * We also welcome suggestions on improving our docs which you can easily do by creating an [Issue](https://help.github.com/en/articles/about-issues). We promise to look into it. as soon as possible.
 
