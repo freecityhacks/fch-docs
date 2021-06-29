@@ -60,4 +60,4 @@ permitted.
 
 ## Maintainer
 
-[Opara Prosper](https://github.com/OPARA-PROSPER)
+[Opara Prosper](https://github.com/kodekage)
