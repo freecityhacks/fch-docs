@@ -1,3 +1,5 @@
+# Yonder Hacks' Governance
+
 `````````````````````````````````````````````
 
 * Copyright Yonder Hacks Contributors
@@ -5,8 +7,6 @@
 * SPDX Identifier: Apache-2.0
 
 ``````````````````````````````````````````````
-
-# Yonder Hacks' Governance
 
 This poicy is implemented as the binding document that governs our internal working policy, effective January 2020, and will be reviewed periodically (see revision sections). The last modification was made in October 2020.
 

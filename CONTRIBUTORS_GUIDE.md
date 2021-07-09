@@ -1,3 +1,5 @@
+# Contributing
+
 `````````````````````````````````````````````
 
 * Copyright Yonder Hacks Contributors
@@ -5,8 +7,6 @@
 * SPDX Identifier: Apache-2.0
 
 ``````````````````````````````````````````````
-
-# Contributing
 
 When contributing to any of our programmes, please first discuss the change you wish to make via our official communication channel, or any other method approved by the Developer/Maintainer of the said hack before making the change. 
 
@@ -76,3 +76,11 @@ For answers to common questions about this code of conduct, see https://www.cont
 ## Maintainer
 
 [Andrew Miracle](https://github.com/koolamusic)
+
+`````````````````````````````````````````````
+
+* Copyright Yonder Hacks Contributors
+
+* SPDX Identifier: Apache-2.0
+
+``````````````````````````````````````````````
