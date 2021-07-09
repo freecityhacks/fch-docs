@@ -1,3 +1,5 @@
+# Yonder Hacks
+
 `````````````````````````````````````````````
 
 * Copyright Yonder Hacks Contributors
@@ -5,8 +7,6 @@
 * SPDX Identifier: Apache-2.0
 
 ``````````````````````````````````````````````
-
-# Yonder Hacks
 
 We are more than just a name. We are a game changer.
 
@@ -31,7 +31,7 @@ Plus, for our awesome developers, we bring in regular jams and seasoned workshop
 
 ### Author
 
-* [Dave XN](https://github.com/davidconoh)
+* [David Onoh](https://github.com/davidconoh)
  
 ### Project Leads
 

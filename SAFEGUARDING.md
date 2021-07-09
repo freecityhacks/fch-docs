@@ -1,3 +1,5 @@
+# Yonder Hacks Safeguarding Policy
+
 `````````````````````````````````````````````
 
 * Copyright Yonder Hacks Contributors
@@ -5,8 +7,6 @@
 * SPDX Identifier: Apache-2.0
 
 ``````````````````````````````````````````````
-
-# Yonder Hacks Safeguarding Policy
 
 ## Purpose
 
@@ -101,7 +101,9 @@ Since our works emphasizes on building a foundational model for inclusive learni
 It is essential that confidentiality is maintained at all stages of the process when dealing with safeguarding concerns. Information relating to the concern and subsequent case management should be shared on a need to know basis only, and should be kept secure at all times. 
 
 Additionally, our working team is obliged to:
+
 * contribute to creating and maintaining an environment that prevents safeguarding violations and promotes the implementation of the *Safeguarding Policy*
+
 * report any concerns or suspicions regarding safeguarding violations by any member or associated personnel to the appropriate authorities
 
 ## Glossary of Terms
@@ -164,4 +166,4 @@ Our safeguarding guide was adopted from [Bond's Safeguarding poilicy template](h
 
 ## Maintainer
 
-[Dave XN](https://github.com/davidconoh)
+[Dave Onoh](https://github.com/davidconoh)
